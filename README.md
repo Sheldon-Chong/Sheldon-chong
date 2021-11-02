@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there, I'm sheldon Chong 👋
 
+Author, Digital Artist, Cartoonist, Coder, Game Developer, Entrepreneur & Changemaker with a mission to inspire creativity and transform mindsets
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="40"> <img src="https://seeklogo.com/images/F/facebook-icon-logo-C61047A9E7-seeklogo.com.png" width="40"> 
+<img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40"> 
+<img src="https://cdn.pixabay.com/photo/2019/09/12/13/47/pictogram-4471660_1280.png" width="40"> 
+<hr class="solid">
 <!--
 **Sheldon-Chong/Sheldon-chong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
