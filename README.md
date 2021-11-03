@@ -7,6 +7,16 @@ Hello my name is Sheldon. I enjoy developing videogames and have been doing so t
 I've been developing games for the past 6 years, since 2015. I use  skills with digital art along with coding to create these games. 
 
 You can find my videogames on itch.io:
+### Awards
+I've won numerous awards in competitions related to coding and STEM. 
+Among them are the
+<ul>
+  <li><strong>Grand Prize Winner</strong> - Dell Technologies Advancing Sustainability International Game Design Challenge 2021 </li> 
+  <li><strong>Champion</strong> – Codemao International Creative Coding Competition 2020</li>
+  <li>Codemao International Creative Coding Competition 2020 (preliminary stage to finals)</li>
+  <li><strong>Silver Award</strong> - International Scratch Coding Competition 2020</li>
+  <li><strong>Top Coder Award</strong> - WeCode International Competition 2018 (Game was showcased in Shenzhen, China)</li>
+</ul>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/sheldonchong/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="40"></a> 
@@ -21,6 +31,10 @@ You can find my videogames on itch.io:
   <summary>
     <strong>test</strong>
   </summary>
+  <p>
+    ![Game Development Workshop Sheldon and Emerson Brochure-07](https://user-images.githubusercontent.com/43157205/140014362-b9fee9cb-722d-4644-9da5-44a23958ebf5.png)
+  </p>
+
 </details>
 <!--
 **Sheldon-Chong/Sheldon-chong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
