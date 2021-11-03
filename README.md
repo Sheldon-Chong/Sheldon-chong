@@ -24,17 +24,14 @@ Among them are the
   <a href="https://www.instagram.com/sheldon_and_emerson/"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40"></a>
   <a href="https://sheldonemerson.biz.my/"><img src="https://cdn.pixabay.com/photo/2019/09/12/13/47/pictogram-4471660_1280.png" width="40"></a>
 </p>
-
 <hr>
 
 <details>
   <summary>
-    <strong>test</strong>
+    <strong>Games I've developed</strong>
   </summary>
-  <p>
-    ![Game Development Workshop Sheldon and Emerson Brochure-07](https://user-images.githubusercontent.com/43157205/140014362-b9fee9cb-722d-4644-9da5-44a23958ebf5.png)
-  </p>
-
+  <br>
+  <img width="400" src="https://github.com/Sheldon-Chong/Sheldon-chong/blob/main/Game%20Development%20Workshop%20Sheldon%20and%20Emerson%20Brochure-07.png?raw=true"></img>
 </details>
 <!--
 **Sheldon-Chong/Sheldon-chong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
