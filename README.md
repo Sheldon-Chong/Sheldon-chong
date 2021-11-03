@@ -1,6 +1,12 @@
 ![Github banner-01](https://user-images.githubusercontent.com/43157205/139999842-944c4a5e-6fee-4c7d-a935-0b1d78e59d95.png)
 
 ### Hi there, I'm Sheldon Chong 👋
+Hello my name is Sheldon. I enjoy developing videogames and have been doing so the since 2015. 
+
+### Games
+I've been developing games for the past 6 years, since 2015. I use  skills with digital art along with coding to create these games. 
+
+You can find my videogames on itch.io:
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/sheldonchong/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="40"></a> 
@@ -11,7 +17,7 @@
 
 <hr>
 
-<details style="color: red;">
+<details>
   <summary>
     <strong>test</strong>
   </summary>
