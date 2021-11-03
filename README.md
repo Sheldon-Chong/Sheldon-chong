@@ -2,8 +2,6 @@
 
 ### Hi there, I'm Sheldon Chong 👋
 
-Author, Digital Artist, Cartoonist, Coder, Game Developer, Entrepreneur & Changemaker with a mission to inspire creativity and transform mindsets
-
 <p align='center'>
   <a href="https://www.linkedin.com/in/sheldonchong/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="40"></a> 
   <a href="https://www.facebook.com/sheldonemersonchong"><img src="https://seeklogo.com/images/F/facebook-icon-logo-C61047A9E7-seeklogo.com.png" width="40"></a>
