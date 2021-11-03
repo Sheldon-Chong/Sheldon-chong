@@ -28,10 +28,16 @@ Among them are the
 
 <details>
   <summary>
-    <strong>Games I've developed</strong>
+    <strong>Some of the games I've developed</strong>
   </summary>
-  <br>
-  <img width="400" src="https://github.com/Sheldon-Chong/Sheldon-chong/blob/main/Game%20Development%20Workshop%20Sheldon%20and%20Emerson%20Brochure-07.png?raw=true"></img>
+  <p align='center'>
+    <br>
+    <img width="400" src="https://github.com/Sheldon-Chong/Sheldon-chong/blob/main/Game%20Development%20Workshop%20Sheldon%20and%20Emerson%20Brochure-07.png?raw=true"></img>
+    <img width="400" src="https://github.com/Sheldon-Chong/Sheldon-chong/blob/main/Game%20Development%20Workshop%20Sheldon%20and%20Emerson%20Brochure-08.png?raw=true"></img>
+    <br>
+    <img width="400" src="https://github.com/Sheldon-Chong/Sheldon-chong/blob/main/Game%20Development%20Workshop%20Sheldon%20and%20Emerson%20Brochure-10.png?raw=true"></img>
+    <img width="400" src="https://github.com/Sheldon-Chong/Sheldon-chong/blob/main/Game%20Development%20Workshop%20Sheldon%20and%20Emerson%20Brochure-09.png?raw=true"></img>
+  </p>
 </details>
 <!--
 **Sheldon-Chong/Sheldon-chong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
