@@ -2,10 +2,10 @@
 
 ## Hi there, I'm Sheldon Chong 👋
 ### 😁 About me
-My name is Sheldon Chong and I'm 15 years old. I enjoy pursuing my passion in art and digital art, writing fictional story books, coding, music, and entrepreneurship. Drawing is something I've been doing since I was 2 years old and it has evolved into digital art. I use my art skills to design brochures, apps, games. I also enjoy writing fictional storybooks and I have already published 2 of these books. My younger brother and I manage a YouTube Channel called Cyberlegends animations, which began in 2020. As of november 2021, this channel has amassed a 130k subscribers and over 40 million views. 
+My name is Sheldon Chong and I'm 15 years old. I enjoy pursuing my passion in drawing and digital art, writing fiction story books, coding, music, and entrepreneurship. Drawing is something I've been doing since I was 2 years old and it has evolved into digital art and animations. I use my art skills to design brochures, apps, games. I also enjoy writing fictional storybooks and I have already published 2 of these books. My younger brother and I manage a YouTube Channel called CyberLegends Animations, which currently has amassed a 130k subscribers and over 43 million views.
 
 ### 🎮 Games
-I've been developing videogames for the past 6 years, since 2015. When creating these videogames, I combine my coding skills with my digital art skills and creative ideas. 
+I've been developing video games for the past 6 years. When creating these video games, I combine my coding skills with my digital art skills and creative ideas. I participated in international and local coding and game development competitions and have won top spots. 
 
 <details>
   <summary>
@@ -24,12 +24,31 @@ I've been developing videogames for the past 6 years, since 2015. When creating 
 ### 🏆 Awards
 I've won numerous awards in competitions related to coding and STEM. 
 Among them are the
+<br>
+
+<strong>Coding and Game Development:</strong>
 <ul>
   <li><strong>Grand Prize Winner</strong> - Dell Technologies Advancing Sustainability International Game Design Challenge 2021 </li> 
-  <li><strong>Champion</strong> – Codemao International Creative Coding Competition 2020</li>
-  <li>Codemao International Creative Coding Competition 2020 (preliminary stage to finals)</li>
+    Game: ‘Cephion’ – A sustainable economic simulator in which the player has to develop the country and manage resources
+  <li><strong>Shortlisted into the finals</strong> - Codemao International Creative Coding Competition 2020</li>
+    Game: ‘Virus Defense’ - Virus-themed tower defense game
+  <li><strong>Champion</strong> - Codemao International Creative Coding Competition 2020</li>
+    Game: ‘Smartopia City 2’ - Develop, manage and expand a smart city 
   <li><strong>Silver Award</strong> - International Scratch Coding Competition 2020</li>
+    Game: ‘Smartopia City 2’ - Develop, manage and expand a smart city 
   <li><strong>Top Coder Award</strong> - WeCode International Competition 2018 (Game was showcased in Shenzhen, China)</li>
+    Game: Smartopia City 1 - Develop, manage and expand a smart city
+</ul>
+<strong>STEM:</strong>
+<ul>
+  <li><strong>Merit Award</strong> - MSC Malaysia APICTA (Asia Pacific ICT Alliance) 2019 Awards</li> 
+  Project: Quick Park IOT Based Smart Parking System & app
+  <li><strong>Silver medal</strong> - Kuala Lumpur Engineering Science Fair (KLESF) International Challenge (2019)</li>
+  Project: Quick Park IOT Based Smart Parking System & app</li>
+  <li><strong>Bronze medal</strong> - Kuala Lumpur Engineering Science Fair (KLESF) International Challenge (2018).</li>
+  Project: IOT Based Smart Parking System & app</li>
+  <li><strong>Best Project Award</strong> - “Hack the City” Smart City Hackathon 2018. Organised by University of Southampton, Malaysia, Institute of Engineering & Technology & Chumbaka</li>
+  <li><strong>Champion</strong> – Intel Aspire Minds Innovation Space Challenge 2017</li>
 </ul>
 
 <p align='center'>
@@ -39,7 +58,6 @@ Among them are the
   <a href="https://sheldonemerson.biz.my/"><img src="https://cdn.pixabay.com/photo/2019/09/12/13/47/pictogram-4471660_1280.png" width="40"></a>
 </p>
 <hr>
-
 
 <!--
 **Sheldon-Chong/Sheldon-chong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
