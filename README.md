@@ -3,10 +3,26 @@
 ### Hi there, I'm Sheldon Chong 👋
 Hello my name is Sheldon. I enjoy developing videogames and have been doing so the since 2015. 
 
-### Games
-I've been developing games for the past 6 years, since 2015. I use  skills with digital art along with coding to create these games. 
+### About me
+I'm 15 years old. I enjoy pursuing my passion in art and digital art, writing fictional story books, coding, music, and entrepreneurship. Drawing is something I've been doing since I was 2 years old and it has evolved into digital art. I use my art skills to design brochures, apps, games. I also enjoy writing fictional storybooks and I have already published 2 of these books. My younger brother and I manage a Youtube Channel called Cyberle
 
-You can find my videogames on itch.io:
+### Games
+I've been developing videogames for the past 6 years, since 2015. When creating these videogames, I combine my coding skills with my digital art skills and creative ideas. 
+
+<details>
+  <summary>
+    <strong>Some of the games I've developed</strong>
+  </summary>
+  <p align='center'>
+    <br>
+    <img width="400" src="https://github.com/Sheldon-Chong/Sheldon-chong/blob/main/Game%201.png?raw=true"></img>
+    <img width="400" src="https://github.com/Sheldon-Chong/Sheldon-chong/blob/main/Game%202.png?raw=true"></img>
+    <br>
+    <img width="400" src="https://github.com/Sheldon-Chong/Sheldon-chong/blob/main/Game%203.png?raw=true"></img>
+    <img width="400" src="https://github.com/Sheldon-Chong/Sheldon-chong/blob/main/Game%204.png?raw=true"></img>
+  </p>
+</details>
+
 ### Awards
 I've won numerous awards in competitions related to coding and STEM. 
 Among them are the
@@ -26,19 +42,7 @@ Among them are the
 </p>
 <hr>
 
-<details>
-  <summary>
-    <strong>Some of the games I've developed alongside my younger brother</strong>
-  </summary>
-  <p align='center'>
-    <br>
-    <img width="400" src="https://github.com/Sheldon-Chong/Sheldon-chong/blob/main/Game%20Development%20Workshop%20Sheldon%20and%20Emerson%20Brochure-07.png?raw=true"></img>
-    <img width="400" src="https://github.com/Sheldon-Chong/Sheldon-chong/blob/main/Game%20Development%20Workshop%20Sheldon%20and%20Emerson%20Brochure-08.png?raw=true"></img>
-    <br>
-    <img width="400" src="https://github.com/Sheldon-Chong/Sheldon-chong/blob/main/Game%20Development%20Workshop%20Sheldon%20and%20Emerson%20Brochure-10.png?raw=true"></img>
-    <img width="400" src="https://github.com/Sheldon-Chong/Sheldon-chong/blob/main/Game%20Development%20Workshop%20Sheldon%20and%20Emerson%20Brochure-09.png?raw=true"></img>
-  </p>
-</details>
+
 <!--
 **Sheldon-Chong/Sheldon-chong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
