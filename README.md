@@ -28,7 +28,7 @@ Among them are the
 
 <details>
   <summary>
-    <strong>Some of the games I've developed</strong>
+    <strong>Some of the games I've developed alongside my younger brother</strong>
   </summary>
   <p align='center'>
     <br>
