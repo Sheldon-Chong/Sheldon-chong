@@ -1,12 +1,10 @@
 ![Github banner-01](https://user-images.githubusercontent.com/43157205/139999842-944c4a5e-6fee-4c7d-a935-0b1d78e59d95.png)
 
-### Hi there, I'm Sheldon Chong 👋
-Hello my name is Sheldon. I enjoy developing videogames and have been doing so the since 2015. 
+## Hi there, I'm Sheldon Chong 👋
+### 😁 About me
+My name is Sheldon Chong and I'm 15 years old. I enjoy pursuing my passion in art and digital art, writing fictional story books, coding, music, and entrepreneurship. Drawing is something I've been doing since I was 2 years old and it has evolved into digital art. I use my art skills to design brochures, apps, games. I also enjoy writing fictional storybooks and I have already published 2 of these books. My younger brother and I manage a YouTube Channel called Cyberlegends animations, which began in 2020. As of november 2021, this channel has amassed a 130k subscribers and over 40 million views. 
 
-### About me
-I'm 15 years old. I enjoy pursuing my passion in art and digital art, writing fictional story books, coding, music, and entrepreneurship. Drawing is something I've been doing since I was 2 years old and it has evolved into digital art. I use my art skills to design brochures, apps, games. I also enjoy writing fictional storybooks and I have already published 2 of these books. My younger brother and I manage a Youtube Channel called Cyberle
-
-### Games
+### 🎮 Games
 I've been developing videogames for the past 6 years, since 2015. When creating these videogames, I combine my coding skills with my digital art skills and creative ideas. 
 
 <details>
@@ -23,7 +21,7 @@ I've been developing videogames for the past 6 years, since 2015. When creating 
   </p>
 </details>
 
-### Awards
+### 🏆 Awards
 I've won numerous awards in competitions related to coding and STEM. 
 Among them are the
 <ul>
