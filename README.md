@@ -1,8 +1,8 @@
-![Github banner-01](https://user-images.githubusercontent.com/43157205/139999842-944c4a5e-6fee-4c7d-a935-0b1d78e59d95.png)
+![image](https://github.com/Sheldon-Chong/Sheldon-chong/assets/43157205/def7751f-8631-4e83-b5b9-c5d037a00c67)
 
 ## Hi there, I'm Sheldon Chong 👋
 ### 😁 About me
-My name is Sheldon Chong and I'm 15 years old. I enjoy pursuing my passion in drawing and digital art, writing fiction story books, coding, music, and entrepreneurship. Drawing is something I've been doing since I was 2 years old and it has evolved into digital art and animations. I use my art skills to design brochures, apps, games. I also enjoy writing fictional storybooks and I have already published 2 of these books. My younger brother and I manage a YouTube Channel called CyberLegends Animations, which currently has amassed a 130k subscribers and over 43 million views.
+I am a 17 y.o. multi-talented Game Developer, Coder, Digital Artist, YouTuber, Animator, Speaker, Author, Musician, Entrepreneur & Changemaker with a mission to inspire creativity and transform mindsets. I have been conducting workshops on cartooning, comic drawing, coding, 2D Animation and other creative workshops for the past 8 years. My younger brother and I manage a YouTube Channel called CyberLegends Animations, which currently has amassed a 560k subscribers and over 124k million views.
 
 ### 🎮 Games
 I've been developing video games for the past 6 years. When creating these video games, I combine my coding skills with my digital art skills and creative ideas. I participated in international and local coding and game development competitions and have won top spots. 
@@ -21,35 +21,25 @@ I've been developing video games for the past 6 years. When creating these video
   </p>
 </details>
 
+I have authored and published 2 children science-fiction storybooks. which were sold at Borders Malaysia. I also do digital art commissions. I am an alumni of the Tuanku Bainun Young Changemaker Awards and had won runner-up in the Young Entrepreneur X-Factor 2019 (Teen’s Challenge). I run my own talk show Treehouse Teenz Talk, interviewing local and international entrepreneurs to inspire people to be conscious changemakers.
+
+Together with my 15 y.o. brother, Emerson, we manage our animations YouTube Channel, CyberLegends Animations that we started during the MCO 1.0 in 2020. It currently has 500K+ subscribers and 119 million+ views (and growing) https://www.youtube.com/CyberLegendsAnimations
+
 ### 🏆 Awards
 I've won numerous awards in competitions related to coding and STEM. 
-Among them are the
 <br>
 
 <strong>Coding and Game Development:</strong>
-<ul>
-  <li><strong>Grand Prize Winner</strong> - Dell Technologies Advancing Sustainability International Game Design Challenge 2021 </li> 
-    Game: ‘Cephion’ – A sustainable economic simulator in which the player has to develop the country and manage resources
-  <li><strong>Shortlisted into the finals</strong> - Codemao International Creative Coding Competition 2020</li>
-    Game: ‘Virus Defense’ - Virus-themed tower defense game
-  <li><strong>Champion</strong> - Codemao International Creative Coding Competition 2020</li>
-    Game: ‘Smartopia City 2’ - Develop, manage and expand a smart city 
-  <li><strong>Silver Award</strong> - International Scratch Coding Competition 2020</li>
-    Game: ‘Smartopia City 2’ - Develop, manage and expand a smart city 
-  <li><strong>Top Coder Award</strong> - WeCode International Competition 2018 (Game was showcased in Shenzhen, China)</li>
-    Game: Smartopia City 1 - Develop, manage and expand a smart city
-</ul>
-<strong>STEM:</strong>
-<ul>
-  <li><strong>Merit Award</strong> - MSC Malaysia APICTA (Asia Pacific ICT Alliance) 2019 Awards</li> 
-  Project: Quick Park IOT Based Smart Parking System & app
-  <li><strong>Silver medal</strong> - Kuala Lumpur Engineering Science Fair (KLESF) International Challenge (2019)</li>
-  Project: Quick Park IOT Based Smart Parking System & app</li>
-  <li><strong>Bronze medal</strong> - Kuala Lumpur Engineering Science Fair (KLESF) International Challenge (2018).</li>
-  Project: IOT Based Smart Parking System & app</li>
-  <li><strong>Best Project Award</strong> - “Hack the City” Smart City Hackathon 2018. Organised by University of Southampton, Malaysia, Institute of Engineering & Technology & Chumbaka</li>
-  <li><strong>Champion</strong> – Intel Aspire Minds Innovation Space Challenge 2017</li>
-</ul>
+
+Have won numerous local and international awards and competitions in various areas such as Game Development, Coding and STEM. Among them are:
+- Game: “Jom Mamak!” Won the Gold Award and Jury Award in the Creative @ Schools Level Up Game Development competition, organised by Malaysian Development Economy Corporation.
+- First Place Winner in the Young Educators Challenge 2021, and won a full scholarship to Sunway College
+- Game: “Cephion”. Won the Grand Prize in the Dell Technologies Game Design Challenge 2021 (Out of 300 entries internationally, mainly from the USA). 
+- Game: “Smartopia City 2". Won Champion in the Codemao International Creative Coding Competition 2020
+- Game: “Virus Defense” – Codemao International Creative Coding Competition 2020 (selected to enter the finals in which I won Champion)
+- Game: “Smartopia City 2”. Won the Silver Award in the International Scratch Coding Competition 2020 (World's largest virtual coding competition with 4158 participants)
+- Game: “Smartopia City 1”. Won the Top Coder Award in the WeCode International Competition 2020 (Out of 200+ entries) (Game was showcased in Shenzhen, China)
+- First Runner Up, Young Extrepreneur X-Factor 2019 (Teens challenge) and won an international school scholarship.
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/sheldonchong/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="40"></a> 
