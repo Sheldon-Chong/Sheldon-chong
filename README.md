@@ -2,10 +2,10 @@
 
 ## Hi there, I'm Sheldon Chong 👋
 ### 😁 About me
-I am a 17 y.o. multi-talented Game Developer, Coder, Digital Artist, YouTuber, Animator, Speaker, Author, Musician, Entrepreneur & Changemaker with a mission to inspire creativity and transform mindsets. I have been conducting workshops on cartooning, comic drawing, coding, 2D Animation and other creative workshops for the past 8 years. My younger brother and I manage a YouTube Channel called CyberLegends Animations, which currently has amassed a 560k subscribers and over 124k million views.
+I am a 17 y.o. multi-talented Game Developer, Coder, Digital Artist, YouTuber, Animator, Speaker, Author, Musician, Entrepreneur & Changemaker with a mission to inspire creativity and transform mindsets. I have been conducting workshops on cartooning, comic drawing, coding, 2D Animation and other creative workshops for the past 8 years. My younger brother and I manage a YouTube Channel called CyberLegends Animations, which currently has amassed a 560k subscribers and over 124k million views (As at 6 Oct 2023).
 
 ### 🎮 Games
-I've been developing video games for the past 6 years. When creating these video games, I combine my coding skills with my digital art skills and creative ideas. I participated in international and local coding and game development competitions and have won top spots. 
+I've been developing video games throughout the past 8 years. I combine my coding skills with my digital art skills and creative ideas into these videogames. I participated in international and local coding and game development competitions and have won top spots. 
 
 <details>
   <summary>
