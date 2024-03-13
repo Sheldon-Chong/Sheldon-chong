@@ -49,6 +49,17 @@ Have won numerous local and international awards and competitions in various are
 </p>
 <hr>
 
+Projects I've completed in the 42 Core Program:
+- Libft
+- Get_next_line
+- ft_print
+- Born2Beroot
+- So_long
+- Pipex
+- Pushswap
+- Philosophers
+- Cube3D
+
 <!--
 **Sheldon-Chong/Sheldon-chong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
