@@ -27,8 +27,7 @@ ___
 
 **Coding Languages**
 
-<img src='icons/python.png' width="60">
-<img src='icons/c.png'		width="60">
+<img src='icons/python.png' width="60"> <img src='icons/c.png'		width="60">
 <img src='icons/cpp.png'	width="60">
 <img src='icons/java.png'	width="60">
 <br><br>
@@ -42,8 +41,7 @@ ___
 
 **Tools**
 
-<img src='icons/github.png'	width="60">
-<img src='icons/git.png'	width="60">
+<img src='icons/github.png'	width="60"> <img src='icons/git.png'	width="60">
 <img src='icons/vscode.png'	width="60">
 <img src='icons/neovim.png'	width="60">
 <img src='icons/godot.png'	width="60">
@@ -52,16 +50,14 @@ ___
 
 **Operating systems**
 
-<img src='icons/wsl.png'	width="60">
-<img src='icons/debian.png' width="60">
+<img src='icons/wsl.png'	width="60"> <img src='icons/debian.png' width="60">
 <img src='icons/ubuntu.png' width="60">
 <br><br>
 
 
 **Design/illustration**
 
-<img src='icons/figma.png'				width="60">
-<img src='icons/adobe illustrator.png'	width="60">
+<img src='icons/figma.png'				width="60"> <img src='icons/adobe illustrator.png'	width="60">
 <img src='icons/adobe xd.png'			width="60">
 <img src='icons/photoshop.png'			width="60">
 <img src='icons/clip studio paint.png'	width="60">
