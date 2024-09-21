@@ -14,8 +14,7 @@ Alongside my brother, I currently run the YouTube channel CyberLegends Animation
 
 ### Socials
 
-<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
-<img src='https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white'>
+<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'> <img src='https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white'>
 <img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white'>
 <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'>
 <img src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white'>
@@ -30,13 +29,13 @@ ___
 <img src='icons/python.png' width="60"> <img src='icons/c.png'		width="60">
 <img src='icons/cpp.png'	width="60">
 <img src='icons/java.png'	width="60">
-<br><br>
+<br>
 
 
 **Database**
 
 <img src='icons/firebase.png' width="60">
-<br><br>
+<br>
 
 
 **Tools**
@@ -45,14 +44,14 @@ ___
 <img src='icons/vscode.png'	width="60">
 <img src='icons/neovim.png'	width="60">
 <img src='icons/godot.png'	width="60">
-<br><br>
+<br>
 
 
 **Operating systems**
 
 <img src='icons/wsl.png'	width="60"> <img src='icons/debian.png' width="60">
 <img src='icons/ubuntu.png' width="60">
-<br><br>
+<br>
 
 
 **Design/illustration**
@@ -62,7 +61,7 @@ ___
 <img src='icons/photoshop.png'			width="60">
 <img src='icons/clip studio paint.png'	width="60">
 <img src='icons/blender.png'			width="60">
-<br><br>
+<br>
 
 ___
 
