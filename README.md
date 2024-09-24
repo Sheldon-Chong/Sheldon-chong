@@ -73,7 +73,7 @@ ___
 | **libft**     	| Creating a library of essential functions for every-day programming use														| pointers, memory allocation, headers, linking files & static libraries, makefile
 | **Get_next_line** | Create a program that retrieves the next line of a given file, which is a convenient utility to parse files					| File descriptors, read/write operations, static variables
 | **ft_printf**     | Recreating the printf function from C, which allows to print a message with format specifiers									| Variadic arguments
-| **born2beroot**   | setting-up, running and operating a Linux distribution in a virtual machine using Virtual Box									| Operating systems & kernels, users & super-users, groups, daemons & background proceses, software protection 
+| **born2beroot**   | setting-up, running and operating a Linux distribution in a virtual machine using Virtual Box									| Operating systems & kernels, users & super-users, groups, daemons & background proceses, software protection, file systems and partitioning
 | **pipex**         | Create a program that will execute a series of commands, piping the output of one to the next									| Pipes & inter-process communication, file descriptors and redirection, process forking
 | **pushswap**      | Creating a sorting algorithm that will sort a given array of numbers ascending in the least amount of steps					| Sorting-algorithms, linkedlists, bit-wise operations and bit-shifting
 | **so_long**       | Create a 2D top-down interactive videogame. The first graphics project of the Core Program									| 2D Graphics rendering
