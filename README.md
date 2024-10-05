@@ -73,19 +73,19 @@ ___
 
 ## Core program
 
-| **Project**       | Project                                                	  	| Concepts covered 	|
-| ----------------- | ---------------------------------------------------------------------------------------------------------------------------	| ----- |
-| **libft**     	| Creating a library of essential functions for every-day programming use														| pointers, memory allocation, headers, linking files & static libraries, makefile
-| **Get_next_line** | Create a program that retrieves the next line of a given file, which is a convenient utility to parse files					| File descriptors, read/write operations, static variables
-| **ft_printf**     | Recreating the printf function from C, which allows to print a message with format specifiers									| Variadic arguments
-| **born2beroot**   | setting-up, running and operating a Linux distribution in a virtual machine using Virtual Box									| Operating systems & kernels, users & super-users, groups, daemons & background proceses, software protection 
-| **pipex**         | Create a program that will execute a series of commands, piping the output of one to the next									| Pipes & inter-process communication, file descriptors and redirection, process forking
-| **pushswap**      | Creating a sorting algorithm that will sort a given array of numbers ascending in the least amount of steps					| Sorting-algorithms, linkedlists, bit-wise operations and bit-shifting
-| **so_long**       | Create a 2D top-down interactive videogame. The first graphics project of the Core Program									| 2D Graphics rendering
-| **philosophers**  | Create a program that will run, and coordinate threads as they access resources												| Multi-threading, mutex locks, dataraces, process forking, semaphores
-| **Minishell**   	| Creating a program that imitates bash																							| Bash behaviour, Abstract-Syntax-Tree, Signals
-| **Cub3D**         | Create a 3D ray-caster with player movement and other interactive components.													| Ray-casting and 3D rendering, collisions, textures
-| **Netpractice**   | Learning and practicing networks and networking, IP addresses, subnet masks and physical components involved in networks		| Networks, IP's & subnet masks, routers & switches, overlapping IP's
+| **Project**       | Project                                                                                                                  | Concepts covered                                                                                             |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
+| **libft**         | Creating a library of essential functions for every-day programming use                                                  | pointers, memory allocation, headers, linking files & static libraries, makefile                             |
+| **Get_next_line** | Create a program that retrieves the next line of a given file, which is a convenient utility to parse files              | File descriptors, read/write operations, static variables                                                    |
+| **ft_printf**     | Recreating the printf function from C, which allows to print a message with format specifiers                            | Variadic arguments                                                                                           |
+| **born2beroot**   | setting-up, running and operating a Linux distribution in a virtual machine using Virtual Box                            | Operating systems & kernels, users & super-users, groups, daemons & background proceses, software protection |
+| **pipex**         | Create a program that will execute a series of commands, piping the output of one to the next                            | Pipes & inter-process communication, file descriptors and redirection, process forking                       |
+| **pushswap**      | Creating a sorting algorithm that will sort a given array of numbers ascending in the least amount of steps              | Sorting-algorithms, linkedlists, bit-wise operations and bit-shifting                                        |
+| **so_long**       | Create a 2D top-down interactive videogame. The first graphics project of the Core Program                               | 2D Graphics rendering                                                                                        |
+| **philosophers**  | Create a program that will run, and coordinate threads as they access resources                                          | Multi-threading, mutex locks, dataraces, process forking, semaphores                                         |
+| **Minishell**     | Creating a program that imitates bash                                                                                    | Bash behaviour, Abstract-Syntax-Tree, Signals                                                                |
+| **Cub3D**         | Create a 3D ray-caster with player movement and other interactive components.                                            | Ray-casting and 3D rendering, collisions, textures                                                           |
+| **Netpractice**   | Learning and practicing networks and networking, IP addresses, subnet masks and physical components involved in networks | Networks, IP's & subnet masks, routers & switches, overlapping IP's                                          |
 
 ___
 
@@ -145,3 +145,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Google UX Design process 
+
+I completed a hands-on 6-module course on UX design that covers creating interactive low and high-fidelity wireframes prototypes for Mobile, Desktop and Web interfaces using tools like Figma and Adobe XD, the UX design cycle, conducting usability studies and iterative design, and design concepts like layout, typography, iconography and color.
+![alt text](image-2.png)
+
+1. [Certificate: Start the UX Design Process: Empathize, Define, and Ideate](https://coursera.org/share/ede072582e22b6e35d7fea4c6c17b19d)
+2. [Certificate: Build Wireframes and Low-Fidelity Prototypes](https://coursera.org/share/942113e76480a6bf046078d24fb74be3)
+3. [Certificate: Conduct UX Research and Test Early Concepts](https://coursera.org/share/ec1bc6bfe13a939163052ebaac379bc1)
+4. [Certificate: Create High-Fidelity Designs and Prototypes in Figma](https://coursera.org/share/38f0e359a782a4d3852df4c085810d91)
+5. [Certificate: Build Dynamic User Interfaces (UI) for Websites](https://coursera.org/share/1b1f990a8da5506f72b476ecdf020dce)
+6. [Certificate: Design a User Experience for Social Good & Prepare for Jobs](https://coursera.org/share/c90a4f37bc1d20c1feb090b353022807)
