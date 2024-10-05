@@ -106,10 +106,6 @@ I've been developing video games throughout the past 8 years. I combine my codin
 	</p>
 </details>
 
-I have authored and published 2 children science-fiction storybooks. which were sold at Borders Malaysia. I also do digital art commissions. I am an alumni of the Tuanku Bainun Young Changemaker Awards and had won runner-up in the Young Entrepreneur X-Factor 2019 (Teen’s Challenge). I run my own talk show Treehouse Teenz Talk, interviewing local and international entrepreneurs to inspire people to be conscious changemakers.
-
-Together with my 15 y.o. brother, Emerson, we manage our animations YouTube Channel, CyberLegends Animations that we started during the MCO 1.0 in 2020. It currently has 500K+ subscribers and 119 million+ views (and growing) https://www.youtube.com/CyberLegendsAnimations
-
 
 ___ 
 ### 🏆 Awards
@@ -144,9 +140,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+I have authored and published 2 children science-fiction storybooks. which were sold at Borders Malaysia. I also do digital art commissions. I am an alumni of the Tuanku Bainun Young Changemaker Awards and had won runner-up in the Young Entrepreneur X-Factor 2019 (Teen’s Challenge). I run my own talk show Treehouse Teenz Talk, interviewing local and international entrepreneurs to inspire people to be conscious changemakers.
+
+Together with my 15 y.o. brother, Emerson, we manage our animations YouTube Channel, CyberLegends Animations that we started during the MCO 1.0 in 2020. It currently has 500K+ subscribers and 119 million+ views (and growing) https://www.youtube.com/CyberLegendsAnimations
+
+
 -->
 
-### Google UX Design process 
+### Google UX Design 
 
 I completed a hands-on 6-module course on UX design that covers creating interactive low and high-fidelity wireframes prototypes for Mobile, Desktop and Web interfaces using tools like Figma and Adobe XD, the UX design cycle, conducting usability studies and iterative design, and design concepts like layout, typography, iconography and color.
 ![alt text](image-2.png)
