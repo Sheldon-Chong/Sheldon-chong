@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Sheldon Chong 👋
 ### About me
-I am a 17 y.o. multi-talented Game Developer, Coder, Digital Artist, YouTuber, Animator, Speaker, Author, Musician, Entrepreneur & Changemaker with a mission to inspire creativity and transform mindsets. I have been conducting workshops on cartooning, comic drawing, coding, 2D Animation and other creative workshops for the past 8 years. My younger brother and I manage a YouTube Channel called CyberLegends Animations, which currently has amassed a 560k subscribers and over 124k million views (As at 6 Oct 2023).
+I am a 18 y.o. multi-talented Game Developer, Coder, Digital Artist, YouTuber, Animator, Speaker, Author, Musician, Entrepreneur & Changemaker with a mission to inspire creativity and transform mindsets. I have been conducting workshops on cartooning, comic drawing, coding, 2D Animation and other creative workshops for the past 9 years. My younger brother and I manage a YouTube Channel called CyberLegends Animations, which currently has amassed a 800k subscribers and over 150 million views (As at 24 Oct 2024).
 
 ### Youtube
 
@@ -14,8 +14,7 @@ Alongside my brother, I currently run the YouTube channel CyberLegends Animation
 
 ### Socials
 
-<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
-<img src='https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white'>
+<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'> <img src='https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white'>
 <img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white'>
 <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'>
 <img src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white'>
@@ -27,65 +26,61 @@ ___
 
 **Coding Languages**
 
-<img src='icons/python.png' width="60">
-<img src='icons/c.png'		width="60">
+<img src='icons/python.png' width="60"> <img src='icons/c.png'		width="60">
 <img src='icons/cpp.png'	width="60">
 <img src='icons/java.png'	width="60">
-<br><br>
+<br>
 
 
 **Database**
 
 <img src='icons/firebase.png' width="60">
-<br><br>
+<br>
 
 
 **Tools**
 
-<img src='icons/github.png'	width="60">
-<img src='icons/git.png'	width="60">
+<img src='icons/github.png'	width="60"> <img src='icons/git.png'	width="60">
 <img src='icons/vscode.png'	width="60">
 <img src='icons/neovim.png'	width="60">
 <img src='icons/godot.png'	width="60">
-<br><br>
+<br>
 
 
 **Operating systems**
 
-<img src='icons/wsl.png'	width="60">
-<img src='icons/debian.png' width="60">
+<img src='icons/wsl.png'	width="60"> <img src='icons/debian.png' width="60">
 <img src='icons/ubuntu.png' width="60">
-<br><br>
+<br>
 
 
 **Design/illustration**
 
-<img src='icons/figma.png'				width="60">
-<img src='icons/adobe illustrator.png'	width="60">
+<img src='icons/figma.png'				width="60"> <img src='icons/adobe illustrator.png'	width="60">
 <img src='icons/adobe xd.png'			width="60">
 <img src='icons/photoshop.png'			width="60">
 <img src='icons/clip studio paint.png'	width="60">
 <img src='icons/blender.png'			width="60">
-<br><br>
+<br>
 
 ___
 
 
-## Core program
+## Projects that I've completed in the 42 Core program
 
-| **Project**       | Project                                                                                                                  | Concepts covered                                                                                             |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
-| **libft**         | Creating a library of essential functions for every-day programming use                                                  | pointers, memory allocation, headers, linking files & static libraries, makefile                             |
-| **Get_next_line** | Create a program that retrieves the next line of a given file, which is a convenient utility to parse files              | File descriptors, read/write operations, static variables                                                    |
-| **ft_printf**     | Recreating the printf function from C, which allows to print a message with format specifiers                            | Variadic arguments                                                                                           |
-| **born2beroot**   | setting-up, running and operating a Linux distribution in a virtual machine using Virtual Box                            | Operating systems & kernels, users & super-users, groups, daemons & background proceses, software protection |
-| **pipex**         | Create a program that will execute a series of commands, piping the output of one to the next                            | Pipes & inter-process communication, file descriptors and redirection, process forking                       |
-| **pushswap**      | Creating a sorting algorithm that will sort a given array of numbers ascending in the least amount of steps              | Sorting-algorithms, linkedlists, bit-wise operations and bit-shifting                                        |
-| **so_long**       | Create a 2D top-down interactive videogame. The first graphics project of the Core Program                               | 2D Graphics rendering                                                                                        |
-| **philosophers**  | Create a program that will run, and coordinate threads as they access resources                                          | Multi-threading, mutex locks, dataraces, process forking, semaphores                                         |
-| **Minishell**     | Creating a program that imitates bash                                                                                    | Bash behaviour, Abstract-Syntax-Tree, Signals                                                                |
-| **Cub3D**         | Create a 3D ray-caster with player movement and other interactive components.                                            | Ray-casting and 3D rendering, collisions, textures                                                           |
-| **Netpractice**   | Learning and practicing networks and networking, IP addresses, subnet masks and physical components involved in networks | Networks, IP's & subnet masks, routers & switches, overlapping IP's                                          |
+| **Project**       | Project                                                	  	| Concepts covered 	|
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------	| ----- |
+| **libft**     	| Creating a library of essential functions for every-day programming use														| pointers, memory allocation, headers, linking files & static libraries, makefile
+| **Get_next_line** | Create a program that retrieves the next line of a given file, which is a convenient utility to parse files					| File descriptors, read/write operations, static variables
+| **ft_printf**     | Recreating the printf function from C, which allows to print a message with format specifiers									| Variadic arguments
+| **born2beroot**   | setting-up, running and operating a Linux distribution in a virtual machine using Virtual Box									| Operating systems & kernels, users & super-users, groups, daemons & background proceses, software protection, file systems and partitioning
+| **pipex**         | Create a program that will execute a series of commands, piping the output of one to the next									| Pipes & inter-process communication, file descriptors and redirection, process forking
+| **pushswap**      | Creating a sorting algorithm that will sort a given array of numbers ascending in the least amount of steps					| Sorting-algorithms, linkedlists, bit-wise operations and bit-shifting
+| **so_long**       | Create a 2D top-down interactive videogame. The first graphics project of the Core Program									| 2D Graphics rendering
+| **philosophers**  | Create a program that will run, and coordinate threads as they access resources												| Multi-threading, mutex locks, dataraces, process forking, semaphores
+| **Minishell**   	| Creating a program that imitates bash																							| Bash behaviour, Abstract-Syntax-Tree, Signals
+| **Cub3D**         | Create a 3D ray-caster with player movement and other interactive components.													| Ray-casting and 3D rendering, collisions, textures
+| **Netpractice**   | Learning and practicing networks and networking, IP addresses, subnet masks and physical components involved in networks		| Networks, IP's & subnet masks, routers & switches, overlapping IP's
 
 ___
 
