@@ -68,20 +68,68 @@ ___
 
 ## Projects that I've completed in the 42 Core program
 
-| **Project**       | Project                                                	  	| Concepts covered 	|
-| ----------------- | ---------------------------------------------------------------------------------------------------------------------------	| ----- |
-| **libft**     	| Creating a library of essential functions for every-day programming use														| pointers, memory allocation, headers, linking files & static libraries, makefile
-| **Get_next_line** | Create a program that retrieves the next line of a given file, which is a convenient utility to parse files					| File descriptors, read/write operations, static variables
-| **ft_printf**     | Recreating the printf function from C, which allows to print a message with format specifiers									| Variadic arguments
-| **born2beroot**   | setting-up, running and operating a Linux distribution in a virtual machine using Virtual Box									| Operating systems & kernels, users & super-users, groups, daemons & background proceses, software protection, file systems and partitioning
-| **pipex**         | Create a program that will execute a series of commands, piping the output of one to the next									| Pipes & inter-process communication, file descriptors and redirection, process forking
-| **pushswap**      | Creating a sorting algorithm that will sort a given array of numbers ascending in the least amount of steps					| Sorting-algorithms, linkedlists, bit-wise operations and bit-shifting
-| **so_long**       | Create a 2D top-down interactive videogame. The first graphics project of the Core Program									| 2D Graphics rendering
-| **philosophers**  | Create a program that will run, and coordinate threads as they access resources												| Multi-threading, mutex locks, dataraces, process forking, semaphores
-| **Minishell**   	| Creating a program that imitates bash																							| Bash behaviour, Abstract-Syntax-Tree, Signals
-| **Cub3D**         | Create a 3D ray-caster with player movement and other interactive components.													| Ray-casting and 3D rendering, collisions, textures
-| **Netpractice**   | Learning and practicing networks and networking, IP addresses, subnet masks and physical components involved in networks		| Networks, IP's & subnet masks, routers & switches, overlapping IP's
-
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Project Description</th>
+    <th>Concepts Covered</th>
+  </tr>
+  <tr>
+    <td><a href="#"><strong>libft</strong></a></td>
+    <td>Creating a library of essential functions for every-day programming use</td>
+    <td>pointers, memory allocation, headers, linking files & static libraries, makefile</td>
+  </tr>
+  <tr>
+    <td><a href="#"><strong>Get_next_line</strong></a></td>
+    <td>Create a program that retrieves the next line of a given file, which is a convenient utility to parse files</td>
+    <td>File descriptors, read/write operations, static variables</td>
+  </tr>
+  <tr>
+    <td><a href="#"><strong>ft_printf</strong></a></td>
+    <td>Recreating the printf function from C, which allows to print a message with format specifiers</td>
+    <td>Variadic arguments</td>
+  </tr>
+  <tr>
+    <td><a href="#"><strong>born2beroot</strong></a></td>
+    <td>Setting-up, running and operating a Linux distribution in a virtual machine using Virtual Box</td>
+    <td>Operating systems & kernels, users & super-users, groups, daemons & background processes, software protection, file systems and partitioning</td>
+  </tr>
+  <tr>
+    <td><a href="#"><strong>pipex</strong></a></td>
+    <td>Create a program that will execute a series of commands, piping the output of one to the next</td>
+    <td>Pipes & inter-process communication, file descriptors and redirection, process forking</td>
+  </tr>
+  <tr>
+    <td><a href="#"><strong>pushswap</strong></a></td>
+    <td>Creating a sorting algorithm that will sort a given array of numbers ascending in the least amount of steps</td>
+    <td>Sorting-algorithms, linked lists, bit-wise operations and bit-shifting</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Sheldon-Chong/so_long_linux_compatible.git"><strong>so_long</strong></a></td>
+    <td>Create a 2D top-down interactive videogame. The first graphics project of the Core Program</td>
+    <td>2D Graphics rendering</td>
+  </tr>
+  <tr>
+    <td><a href="#"><strong>philosophers</strong></a></td>
+    <td>Create a program that will run, and coordinate threads as they access resources</td>
+    <td>Multi-threading, mutex locks, data races, process forking, semaphores</td>
+  </tr>
+  <tr>
+    <td><a href="#"><strong>Minishell</strong></a></td>
+    <td>Creating a program that imitates bash</td>
+    <td>Bash behaviour, Abstract-Syntax-Tree, Signals</td>
+  </tr>
+  <tr>
+    <td><a href="#"><strong>Cub3D</strong></a></td>
+    <td>Create a 3D ray-caster with player movement and other interactive components</td>
+    <td>Ray-casting and 3D rendering, collisions, textures</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Sheldon-Chong/netpractice.git"><strong>Netpractice</strong></a></td>
+    <td>Learning and practicing networks and networking, IP addresses, subnet masks and physical components involved in networks</td>
+    <td>Networks, IP's & subnet masks, routers & switches, overlapping IP's</td>
+  </tr>
+</table>
 ___
 
 ### 🎮 Games
