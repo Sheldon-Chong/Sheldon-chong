@@ -2,15 +2,14 @@
 
 ## Hi there, I'm Sheldon Chong 👋
 ### About me
-I am a 18 y.o. multi-talented Game Developer, Coder, Digital Artist, YouTuber, Animator, Speaker, Author, Musician, Entrepreneur & Changemaker with a mission to inspire creativity and transform mindsets. I have been conducting workshops on cartooning, comic drawing, coding, 2D Animation and other creative workshops for the past 9 years. My younger brother and I manage a YouTube Channel called CyberLegends Animations, which currently has amassed a 800k subscribers and over 150 million views (As at 24 Oct 2024).
+I am a 18 y.o. multi-talented Game Developer, Coder, Digital Artist, YouTuber, Animator, Speaker, Author, Musician, Entrepreneur & Changemaker with a mission to inspire creativity and transform mindsets. I have been conducting workshops on cartooning, comic drawing, coding, 2D Animation and other creative workshops for the past 9 years. 
 
 ### Youtube
+Alongside my brother, we manage a YouTube Channel called CyberLegends Animations, which currently has amassed a 800k subscribers and over 150 million views (As at 24 Oct 2024).
 
 <p align="center">
 	<img src='image.png' width=500>
 </p>
-
-Alongside my brother, I currently run the YouTube channel CyberLegends Animations.
 
 ### Socials
 
@@ -21,6 +20,7 @@ Alongside my brother, I currently run the YouTube channel CyberLegends Animation
 
 
 ___
+
 ## Skills
 
 
@@ -67,6 +67,8 @@ ___
 
 
 ## Projects that I've completed in the 42 Core program
+I'm currently studying at <a href="https://42kl.edu.my/">42 Kuala Lumpur</a>, which is under Sunway Education Group.
+As part of the 42's Core Program, I have worked on a number of coding projects that cover various fields of computer science.
 
 <table>
   <tr>
@@ -130,6 +132,7 @@ ___
     <td>Networks, IP's & subnet masks, routers & switches, overlapping IP's</td>
   </tr>
 </table>
+
 ___
 
 ### 🎮 Games
