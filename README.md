@@ -160,6 +160,30 @@ I've been developing video games throughout the past 8 years. I combine my codin
 </details>
 
 
+___
+### 🔍 Articles & Insights 
+I have written several extensive articles regarding, compiling knowledge I have gathered via research
+
+
+<table>
+	<tr>
+		<td width="300"><img src="https://github.com/user-attachments/assets/319d8cd4-baf6-4b56-bf90-e2744b3d3a38"></td>
+		<td>
+A few months ago, I wrote myself some notes on Netpractice as I was doing research on the subject. However as my knowledge grew, so did the rabbit-hole that was networking. There were a lot of great resources out there, but I didn't find source that effectively provided the entire picture for networking. Compiling my findings, I spent 2-weeks refining this guide.
+
+This guide aims to give a full picture on the subjects concerning netpractice from scratch, in a manner as digestible as I could make it. Many points brought up will be supported by graphics and visuals that I illustrated. 
+
+It covers netpractice topics such as IP addresses, CIDR and subnet calculations, and Networking devices, plus additional concepts such as ARP requests, MAC addresses, DNS and DHCP.
+		</td>
+	</tr>
+ 	<tr>
+  		<td width="300"><img src="https://github.com/user-attachments/assets/319d8cd4-baf6-4b56-bf90-e2744b3d3a38"></td>
+  	<\tr>
+</table>
+
+
+
+
 ___ 
 ### 🏆 Awards
 I've won numerous awards in competitions related to coding and STEM. 
