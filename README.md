@@ -147,7 +147,7 @@ I have written several extensive articles regarding, compiling knowledge I have 
 
 <table>
 	<tr>
-		<td width="300"><img src="https://github.com/user-attachments/assets/319d8cd4-baf6-4b56-bf90-e2744b3d3a38"></td>
+		<td width="300"><a href="https://github.com/Sheldon-Chong/netpractice"><img src="https://github.com/user-attachments/assets/319d8cd4-baf6-4b56-bf90-e2744b3d3a38"></td>
 		<td>
 A few months ago, I wrote some notes while studying Netpractice, a project of the 42 Core program. However as my knowledge grew, so did the rabbit-hole that was networking. Lot of great learning resources existed, but I didn't find source that effectively provided the entire picture for networking. Compiling my findings, I created this guide. It aims to give a full picture on networks from scratch, in a manner as digestible as I could make it. Many points brought up will be supported by graphics and visuals that I illustrated. 
 
