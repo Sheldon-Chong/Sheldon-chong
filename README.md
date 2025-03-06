@@ -4,14 +4,15 @@
 ### About me
 I am a 18 y.o. multi-talented Game Developer, Coder, Digital Artist, YouTuber, Animator, Speaker, Author, Musician, Entrepreneur & Changemaker with a mission to inspire creativity and transform mindsets. I have been conducting workshops on cartooning, comic drawing, coding, 2D Animation and other creative workshops for the past 9 years. 
 
+___
+
 ### Youtube
-Alongside my brother, we manage a YouTube Channel called CyberLegends Animations, which currently has amassed a 800k subscribers and over 150 million views (As at 24 Oct 2024).
+Alongside my brother, we actively manage a YouTube Channel called CyberLegends Animations, which currently has amassed a 895k subscribers, and 179 million views. My role in this channel involves not only creative areas like animation, illustration and script-writing, but also automations, and software scripting. I actively build tools to assist with creating animations and translating them to other languages.
 
 <p align="center">
 	<img src="https://github.com/user-attachments/assets/3327cdfa-a81b-4f0a-8e21-60398d28d7e0" width="600" style="display: block; margin: auto;">
 	<br>As at 6.3.2025 
 </p>
-
 
 ### Socials
 
