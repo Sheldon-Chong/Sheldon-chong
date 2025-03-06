@@ -161,31 +161,32 @@ I've been developing video games throughout the past 8 years. I combine my codin
 
 ___
 ### 🔍 Articles & Insights 
-I have written several extensive articles regarding, compiling knowledge I have gathered via research
+I have written several extensive articles regarding, compiling knowledge I have gathered via research and projects that I have worked on. As I'm passionate about graphic design and illustration, these guides are equipped with as much visual aids to assist with navigating difficult concepts.
 
 
 <table>
 	<tr>
 		<td width="300"><img src="https://github.com/user-attachments/assets/319d8cd4-baf6-4b56-bf90-e2744b3d3a38"></td>
 		<td>
-A few months ago, I wrote myself some notes on Netpractice as I was doing research on the subject. However as my knowledge grew, so did the rabbit-hole that was networking. There were a lot of great resources out there, but I didn't find source that effectively provided the entire picture for networking. Compiling my findings, I spent 2-weeks refining this guide.
+A few months ago, I wrote some notes while studying Netpractice, a project of the 42 Core program. However as my knowledge grew, so did the rabbit-hole that was networking. Lot of great learning resources existed, but I didn't find source that effectively provided the entire picture for networking. Compiling my findings, I created this guide. It aims to give a full picture on networks from scratch, in a manner as digestible as I could make it. Many points brought up will be supported by graphics and visuals that I illustrated. 
 
-This guide aims to give a full picture on the subjects concerning netpractice from scratch, in a manner as digestible as I could make it. Many points brought up will be supported by graphics and visuals that I illustrated. 
-
-It covers netpractice topics such as IP addresses, CIDR and subnet calculations, and Networking devices, plus additional concepts such as ARP requests, MAC addresses, DNS and DHCP.
+<i>Topics include: IP addresses, CIDR and subnet calculations, and networking devices, plus additional concepts such as ARP requests, MAC addresses, DNS and DHCP.</i>
 		</td>
 	</tr>
  	<tr>
   		<td width="300"><img src="https://github.com/user-attachments/assets/c48be072-a242-483d-9893-13e7c4680d36"></td>
     		<td>
-I spent several months developing a 2D, isometric top-down scroller game, utilizing an extremely bare-bones graphics library in a low-level-language - C. This article aims to cover aspects of the game, and how I approached each one, utilizing a mix of visuals and examples to explain concepts. This article covers topics cover how I applied Isometric rendering and asset-creation, 2D animation utilizing a hybrid method of interpolation, dynamic camera that follows the player, and enemy AI using ray-casting.
+I spent several months developing a 2D isometric scroller game, using an extremely bare-bones graphics library in a low-level-language - C. This article aims to cover aspects of the game's development, and how I approached each one. 
+
+<i>Topics include: how I applied Isometric rendering and asset-creation, 2D animation utilizing a hybrid method of interpolation, dynamic camera that follows the player, and enemy AI using ray-casting.</i>
       		</td>
   	</tr>
    	<tr>
   		<td width="300"><img src="https://github.com/user-attachments/assets/82b85ae8-7f5a-4271-9036-fdfa629d10b6"></td>
     		<td>
-(Coming soon) This article is an extension of the Networks article I wrote earlier. It aims to expand previously covered concepts, such as Clients and IP addresses, but will dive deeper into the weeds that is exactly how data is sent and retrieved, between clients and a webserver. These include Ports, sockets, request methods such as GET, POST, DELETE, how webserver's process data using CGI, multi-part/form data 
-It utilizes the same example-based, step-by-step learning method to explain concepts
+(Coming soon) This article is an extension of the Networks article I wrote earlier. It aims to expand previously covered concepts, such as Clients and IP addresses, but will dive deeper into the weeds that is exactly how data is sent and retrieved, between clients and a webserver. It utilizes the same example-based, step-by-step learning method to explain concepts
+
+<i>Topics include: Ports, sockets, request methods such as GET, POST, DELETE, how webserver's process data using CGI, multi-part/form data</i>
 
 </td>
   	</tr>
