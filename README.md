@@ -141,26 +141,7 @@ As part of the 42's Core Program, I have worked on a number of coding projects t
 </table>
 
 ___
-
-### 🎮 Games
-I've been developing video games throughout the past 8 years. I combine my coding skills with my digital art skills and creative ideas into these videogames. I participated in international and local coding and game development competitions and have won top spots. 
-
-<details>
-	<summary>
-		<strong>Some of the games I've developed</strong>
-	</summary>
-	<p align='center'>
-		<br>
-		<img width="400" src="https://github.com/Sheldon-Chong/Sheldon-chong/blob/main/Game%201.png?raw=true"></img>
-		<img width="400" src="https://github.com/Sheldon-Chong/Sheldon-chong/blob/main/Game%202.png?raw=true"></img>
-		<br>
-		<img width="400" src="https://github.com/Sheldon-Chong/Sheldon-chong/blob/main/Game%203.png?raw=true"></img>
-		<img width="400" src="https://github.com/Sheldon-Chong/Sheldon-chong/blob/main/Game%204.png?raw=true"></img>
-	</p>
-</details>
-
-___
-### 🔍 Articles & Insights 
+## 🔍 My articles & Insights 
 I have written several extensive articles regarding, compiling knowledge I have gathered via research and projects that I have worked on. As I'm passionate about graphic design and illustration, these guides are equipped with as much visual aids to assist with navigating difficult concepts.
 
 
@@ -195,8 +176,27 @@ I spent several months developing a 2D isometric scroller game, using an extreme
 
 
 
+___
+
+### 🎮 Games
+I've been developing video games throughout the past 8 years. I combine my coding skills with my digital art skills and creative ideas into these videogames. I participated in international and local coding and game development competitions and have won top spots. 
+
+<details>
+	<summary>
+		<strong>Some of the games I've developed</strong>
+	</summary>
+	<p align='center'>
+		<br>
+		<img width="400" src="https://github.com/Sheldon-Chong/Sheldon-chong/blob/main/Game%201.png?raw=true"></img>
+		<img width="400" src="https://github.com/Sheldon-Chong/Sheldon-chong/blob/main/Game%202.png?raw=true"></img>
+		<br>
+		<img width="400" src="https://github.com/Sheldon-Chong/Sheldon-chong/blob/main/Game%203.png?raw=true"></img>
+		<img width="400" src="https://github.com/Sheldon-Chong/Sheldon-chong/blob/main/Game%204.png?raw=true"></img>
+	</p>
+</details>
+
 ___ 
-### 🏆 Awards
+## 🏆 Awards
 I've won numerous awards in competitions related to coding and STEM. 
 <br>
 
@@ -214,27 +214,8 @@ Have won numerous local and international awards and competitions in various are
 
 <hr>
 
-<!--
-**Sheldon-Chong/Sheldon-chong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-I have authored and published 2 children science-fiction storybooks. which were sold at Borders Malaysia. I also do digital art commissions. I am an alumni of the Tuanku Bainun Young Changemaker Awards and had won runner-up in the Young Entrepreneur X-Factor 2019 (Teen’s Challenge). I run my own talk show Treehouse Teenz Talk, interviewing local and international entrepreneurs to inspire people to be conscious changemakers.
-
-Together with my 15 y.o. brother, Emerson, we manage our animations YouTube Channel, CyberLegends Animations that we started during the MCO 1.0 in 2020. It currently has 500K+ subscribers and 119 million+ views (and growing) https://www.youtube.com/CyberLegendsAnimations
-
-
--->
-
+___
 ### Google UX Design 
 
 I completed a hands-on 6-module course on UX design that covers creating interactive low and high-fidelity wireframes prototypes for Mobile, Desktop and Web interfaces using tools like Figma and Adobe XD, the UX design cycle, conducting usability studies and iterative design, and design concepts like layout, typography, iconography and color.
