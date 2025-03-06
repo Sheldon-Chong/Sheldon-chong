@@ -8,8 +8,10 @@ I am a 18 y.o. multi-talented Game Developer, Coder, Digital Artist, YouTuber, A
 Alongside my brother, we manage a YouTube Channel called CyberLegends Animations, which currently has amassed a 800k subscribers and over 150 million views (As at 24 Oct 2024).
 
 <p align="center">
-	<img src='image.png' width=500>
+	<img src="https://github.com/user-attachments/assets/3327cdfa-a81b-4f0a-8e21-60398d28d7e0" width="600" style="display: block; margin: auto;">
+	<br>As at 6.3.2025 
 </p>
+
 
 ### Socials
 
@@ -17,7 +19,6 @@ Alongside my brother, we manage a YouTube Channel called CyberLegends Animations
 <img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white'>
 <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'>
 <img src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white'>
-
 
 ___
 
