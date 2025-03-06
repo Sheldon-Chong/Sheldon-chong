@@ -159,7 +159,6 @@ I've been developing video games throughout the past 8 years. I combine my codin
 	</p>
 </details>
 
-
 ___
 ### 🔍 Articles & Insights 
 I have written several extensive articles regarding, compiling knowledge I have gathered via research
@@ -177,8 +176,19 @@ It covers netpractice topics such as IP addresses, CIDR and subnet calculations,
 		</td>
 	</tr>
  	<tr>
-  		<td width="300"><img src="https://github.com/user-attachments/assets/319d8cd4-baf6-4b56-bf90-e2744b3d3a38"></td>
-  	<\tr>
+  		<td width="300"><img src="https://github.com/user-attachments/assets/c48be072-a242-483d-9893-13e7c4680d36"></td>
+    		<td>
+I spent several months developing a 2D, isometric top-down scroller game, utilizing an extremely bare-bones graphics library in a low-level-language - C. This article aims to cover aspects of the game, and how I approached each one, utilizing a mix of visuals and examples to explain concepts. This article covers topics cover how I applied Isometric rendering and asset-creation, 2D animation utilizing a hybrid method of interpolation, dynamic camera that follows the player, and enemy AI using ray-casting.
+      		</td>
+  	</tr>
+   	<tr>
+  		<td width="300"><img src="https://github.com/user-attachments/assets/82b85ae8-7f5a-4271-9036-fdfa629d10b6"></td>
+    		<td>
+(Coming soon) This article is an extension of the Networks article I wrote earlier. It aims to expand previously covered concepts, such as Clients and IP addresses, but will dive deeper into the weeds that is exactly how data is sent and retrieved, between clients and a webserver. These include Ports, sockets, request methods such as GET, POST, DELETE, how webserver's process data using CGI, multi-part/form data 
+It utilizes the same example-based, step-by-step learning method to explain concepts
+
+</td>
+  	</tr>
 </table>
 
 
