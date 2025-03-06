@@ -79,19 +79,19 @@ As part of the 42's Core Program, I have worked on a number of coding projects t
     <th>Concepts Covered</th>
   </tr>
   <tr>
-    <td><a href="#"><strong>libft</strong></a></td>
+    <td><a href="https://github.com/Sheldon-Chong/Libft"><strong>libft</strong></a></td>
     <td>Creating a library of essential functions for every-day programming use</td>
     <td>pointers, memory allocation, headers, linking files & static libraries, makefile</td>
   </tr>
   <tr>
-    <td><a href="#"><strong>Get_next_line</strong></a></td>
+    <td><a href="https://github.com/Sheldon-Chong/get_next_line"><strong>Get_next_line</strong></a></td>
     <td>Create a program that retrieves the next line of a given file, which is a convenient utility to parse files</td>
     <td>File descriptors, read/write operations, static variables</td>
   </tr>
   <tr>
-    <td><a href="#"><strong>ft_printf</strong></a></td>
+    <td><a href="https://github.com/Sheldon-Chong/ft_printf"><strong>ft_printf</strong></a></td>
     <td>Recreating the printf function from C, which allows to print a message with format specifiers</td>
-    <td>Variadic arguments</td>
+    <td>Variadic arguments, C printf behaviour</td>
   </tr>
   <tr>
     <td><a href="#"><strong>born2beroot</strong></a></td>
@@ -99,12 +99,12 @@ As part of the 42's Core Program, I have worked on a number of coding projects t
     <td>Operating systems & kernels, users & super-users, groups, daemons & background processes, software protection, file systems and partitioning</td>
   </tr>
   <tr>
-    <td><a href="#"><strong>pipex</strong></a></td>
+    <td><a href="https://github.com/Sheldon-Chong/pipex"><strong>pipex</strong></a></td>
     <td>Create a program that will execute a series of commands, piping the output of one to the next</td>
     <td>Pipes & inter-process communication, file descriptors and redirection, process forking</td>
   </tr>
   <tr>
-    <td><a href="#"><strong>pushswap</strong></a></td>
+    <td><a href="https://github.com/Sheldon-Chong/push_swap"><strong>pushswap</strong></a></td>
     <td>Creating a sorting algorithm that will sort a given array of numbers ascending in the least amount of steps</td>
     <td>Sorting-algorithms, linked lists, bit-wise operations and bit-shifting</td>
   </tr>
@@ -114,17 +114,17 @@ As part of the 42's Core Program, I have worked on a number of coding projects t
     <td>2D Graphics rendering</td>
   </tr>
   <tr>
-    <td><a href="#"><strong>philosophers</strong></a></td>
+    <td><a href="https://github.com/Sheldon-Chong/Philosophers"><strong>philosophers</strong></a></td>
     <td>Create a program that will run, and coordinate threads as they access resources</td>
     <td>Multi-threading, mutex locks, data races, process forking, semaphores</td>
   </tr>
   <tr>
-    <td><a href="#"><strong>Minishell</strong></a></td>
+    <td><a href="https://github.com/Sheldon-Chong/minishell"><strong>Minishell</strong></a></td>
     <td>Creating a program that imitates bash</td>
     <td>Bash behaviour, Abstract-Syntax-Tree, Signals</td>
   </tr>
   <tr>
-    <td><a href="#"><strong>Cub3D</strong></a></td>
+    <td><a href="https://github.com/Sheldon-Chong/cub3D"><strong>Cub3D</strong></a></td>
     <td>Create a 3D ray-caster with player movement and other interactive components</td>
     <td>Ray-casting and 3D rendering, collisions, textures</td>
   </tr>
@@ -132,6 +132,11 @@ As part of the 42's Core Program, I have worked on a number of coding projects t
     <td><a href="https://github.com/Sheldon-Chong/netpractice.git"><strong>Netpractice</strong></a></td>
     <td>Learning and practicing networks and networking, IP addresses, subnet masks and physical components involved in networks</td>
     <td>Networks, IP's & subnet masks, routers & switches, overlapping IP's</td>
+  </tr>
+  <tr>
+    <td><a href="#"><strong>C++ Modules 0-4</strong></a></td>
+    <td>Completing a series of C++ projects, each aimed at teaching different topics</td>
+    <td>Streams, OOP, Member access modifiers, Inheritance, Overloading, Method Overriding, Operator Overloading, Polymorphism</td>
   </tr>
 </table>
 
