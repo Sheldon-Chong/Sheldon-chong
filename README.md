@@ -214,8 +214,6 @@ Have won numerous local and international awards and competitions in various are
 
 <hr>
 
-
-___
 ### Google UX Design 
 
 I completed a hands-on 6-module course on UX design that covers creating interactive low and high-fidelity wireframes prototypes for Mobile, Desktop and Web interfaces using tools like Figma and Adobe XD, the UX design cycle, conducting usability studies and iterative design, and design concepts like layout, typography, iconography and color.
