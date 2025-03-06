@@ -110,7 +110,7 @@ As part of the 42's Core Program, I have worked on a number of coding projects t
   </tr>
   <tr>
     <td><a href="https://github.com/Sheldon-Chong/so_long_linux_compatible.git"><strong>so_long</strong></a></td>
-    <td>Create a 2D top-down interactive videogame. The first graphics project of the Core Program</td>
+    <td>Create a 2D top-down interactive video`. The first graphics project of the Core Program</td>
     <td>2D Graphics rendering</td>
   </tr>
   <tr>
@@ -141,7 +141,7 @@ As part of the 42's Core Program, I have worked on a number of coding projects t
 </table>
 
 ___
-## 🔍 My articles & Insights 
+## 🔍 articles & insights I have written 
 I have written several extensive articles regarding, compiling knowledge I have gathered via research and projects that I have worked on. As I'm passionate about graphic design and illustration, these guides are equipped with as much visual aids to assist with navigating difficult concepts.
 
 
@@ -174,11 +174,9 @@ I spent several months developing a 2D isometric scroller game, using an extreme
 </table>
 
 
-
-
 ___
 
-### 🎮 Games
+## 🎮 Games
 I've been developing video games throughout the past 8 years. I combine my coding skills with my digital art skills and creative ideas into these videogames. I participated in international and local coding and game development competitions and have won top spots. 
 
 <details>
