@@ -84,7 +84,7 @@ As part of the 42's Core Program, I have worked on a number of coding projects t
     <td>pointers, memory allocation, headers, linking files & static libraries, makefile</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Sheldon-Chong/get_next_line"><strong>Get_next_line</strong></a></td>
+    <td><a href="https://github.com/Sheldon-Chong/get_next_line"><strong>get_next_line</strong></a></td>
     <td>Create a program that retrieves the next line of a given file, which is a convenient utility to parse files</td>
     <td>File descriptors, read/write operations, static variables</td>
   </tr>
@@ -119,29 +119,29 @@ As part of the 42's Core Program, I have worked on a number of coding projects t
     <td>Multi-threading, mutex locks, data races, process forking, semaphores</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Sheldon-Chong/minishell"><strong>Minishell</strong></a></td>
+    <td><a href="https://github.com/Sheldon-Chong/minishell"><strong>minishell</strong></a></td>
     <td>Creating a program that imitates bash</td>
     <td>Bash behaviour, Abstract-Syntax-Tree, Signals</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Sheldon-Chong/cub3D"><strong>Cub3D</strong></a></td>
+    <td><a href="https://github.com/Sheldon-Chong/cub3D"><strong>cub3D</strong></a></td>
     <td>Create a 3D ray-caster with player movement and other interactive components</td>
     <td>Ray-casting and 3D rendering, collisions, textures</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Sheldon-Chong/netpractice.git"><strong>Netpractice</strong></a></td>
+    <td><a href="https://github.com/Sheldon-Chong/netpractice.git"><strong>netpractice</strong></a></td>
     <td>Learning and practicing networks and networking, IP addresses, subnet masks and physical components involved in networks</td>
     <td>Networks, IP's & subnet masks, routers & switches, overlapping IP's</td>
   </tr>
   <tr>
-    <td><a href="#"><strong>C++ Modules 0-4</strong></a></td>
+    <td><a href="#"><strong>C++ modules 0-4</strong></a></td>
     <td>Completing a series of C++ projects, each aimed at teaching different topics</td>
     <td>Streams, OOP, Member access modifiers, Inheritance, Overloading, Method Overriding, Operator Overloading, Polymorphism</td>
   </tr>
 </table>
 
 ___
-## 🔍 articles & insights I have written 
+## 🔍 Articles & insights I have written 
 I have written several extensive articles regarding, compiling knowledge I have gathered via research and projects that I have worked on. As I'm passionate about graphic design and illustration, these guides are equipped with as much visual aids to assist with navigating difficult concepts.
 
 
