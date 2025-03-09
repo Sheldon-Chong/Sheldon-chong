@@ -72,6 +72,9 @@ ___
 I'm currently studying at <a href="https://42kl.edu.my/">42 Kuala Lumpur</a>, which is under Sunway Education Group.
 As part of the 42's Core Program, I have worked on a number of coding projects that cover various fields of computer science.
 
+<img width="500" src="https://github.com/user-attachments/assets/280e4fe8-1b92-4eb8-902a-031491fd5e9b"></img>
+My current level: 5
+
 <table>
   <tr>
     <th>Project</th>
