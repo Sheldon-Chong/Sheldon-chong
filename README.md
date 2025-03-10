@@ -79,11 +79,15 @@ ___
 
 
 ## Projects that I've completed in the 42 Core program
-I'm currently studying at <a href="https://42kl.edu.my/">42 Kuala Lumpur</a>, which is under Sunway Education Group.
-As part of the 42's Core Program, I have worked on a number of coding projects that cover various fields of computer science.
+I'm currently studying at <a href="https://42kl.edu.my/">42 Kuala Lumpur (Sunway Education Group)</a>. This program it is part of the <a href="https://42.fr/en/homepage/">global 42 Network</a>, which originated in France with campuses worldwide
 
-<img width="500" src="https://github.com/user-attachments/assets/280e4fe8-1b92-4eb8-902a-031491fd5e9b"></img>
-My current level: 5
+<p align="center">
+
+<img src="https://badge.mediaplus.ma/darkblue/shechong?1337Badge=off&UM6P=off" alt="shechong's 42 stats" />
+
+</p>
+
+As part of the 42's Core Program, I have worked on a number of coding projects that cover various fields of computer science.
 
 <table>
   <tr>
