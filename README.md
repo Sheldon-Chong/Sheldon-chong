@@ -8,11 +8,18 @@
 - I’m passionate about automating workflows to free up more time for creativity and innovation.
 - I’ve shared my expertise through talks and workshops relating to 2D animation, YouTube, and coding, for the past 9 years
 
-Together with my brother, I co-manage CyberLegends Animations, a YouTube channel with 895K subscribers and 179 million views. My role extends beyond animation, illustration, and scriptwriting to include automation and software scripting. I develop tools to streamline animation production and facilitate multilingual translations, enhancing both efficiency and accessibility.
+Together with my brother, I co-manage CyberLegends Animations, a YouTube channel with 895K subscribers and 179 million views
 <p align="center">
 	<img src="https://github.com/user-attachments/assets/3327cdfa-a81b-4f0a-8e21-60398d28d7e0" width="600" style="display: block; margin: auto;">
 	<br>As at 6.3.2025 
 </p>
+
+My role extends beyond animation, illustration, and scriptwriting. It also include automation and software scripting in the following areas:
+- **Multi-lingual translation:** Our animations, which are in english, are translated into Chinese, Spanish, Brazillian, utilizing a software I developed to translate, relink and generate visual dialogues for characters in the animation
+- **Video-editing post-production:** Utilizing Davinci Resolve's scripting API, I have coded tools to help with importing, aligning and adjusting clips inside its video-editor 
+- **Camera and animation blueprints:** 
+
+
 
 ### Socials
 
@@ -55,6 +62,13 @@ ___
 <img src='icons/ubuntu.png' width="60">
 <br>
 
+**Automation & Scripting**
+
+<img src='icons/adobe action script.png' width="60">
+<img src='icons/davinci resolve API.png' width="60">
+<img src='icons/QT script.png'	 	 width="60">
+
+<br>
 
 **Design/illustration**
 
