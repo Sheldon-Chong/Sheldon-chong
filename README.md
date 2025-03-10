@@ -1,12 +1,18 @@
 ![image](https://github.com/Sheldon-Chong/Sheldon-chong/assets/43157205/def7751f-8631-4e83-b5b9-c5d037a00c67)
 
+<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'> <img src='https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white'>
+<img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white'>
+<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'>
+<img src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white'>
+
 ## Hi there, I'm Sheldon Chong 👋
+
 ### About me
-- Technical Lead and Artist at CyberLegends Animations (900K+ subscribers).
-- Coder, Digital Artist, YouTuber, Animator, Entrepreneur, and Speaker.
-- I develop tools to streamline animation production, enhancing efficiency while maintaining artistic quality.
-- I’m passionate about automating workflows to free up more time for creativity and innovation.
-- I’ve shared my expertise through talks and workshops relating to 2D animation, YouTube, and coding, for the past 9 years
+- Technical Lead and Artist at CyberLegends Animations, reaching 1.3M subscribers across <a href="">YouTube (900K)</a>, <a href="">Bilibili (375K)</a>, and <a href="">TikTok (21K) </a>.
+- 🎨 Coder, Digital Artist, YouTuber, Animator, Entrepreneur, and Speaker.
+- 🛠️ I develop tools to streamline animation production, enhancing efficiency while maintaining artistic quality.
+- 🤖 I’m passionate about automating workflows to free up more time for creativity and innovation.
+- 🎤 I’ve shared my expertise through talks and workshops relating to 2D animation, YouTube, and coding, for the past 9 years
 
 Together with my brother, I co-manage CyberLegends Animations, a YouTube channel with 895K subscribers and 179 million views
 <p align="center">
@@ -19,67 +25,53 @@ My role extends beyond animation, illustration, and scriptwriting. It also inclu
 - **Video-editing post-production:** Utilizing Davinci Resolve's scripting API, I have coded tools to help with importing, aligning and adjusting clips inside its video-editor 
 - **Camera and animation blueprints:** 
 
-
-
-### Socials
-
-<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'> <img src='https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white'>
-<img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white'>
-<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'>
-<img src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white'>
+<br>
 
 ___
 
 ## Skills
 
+<table>
+	<tr><td><h3>Coding languages</h3></td><td>
+		<img src='icons/python.png' width="60"> <img src='icons/c.png'		width="60">
+		<img src='icons/cpp.png'	width="60">
+		<img src='icons/java.png'	width="60">
+	</td></tr>
+	<tr><td><h3>Database</h3></td><td>
+		<img src='icons/firebase.png' width="60">
+	</td></tr>
+	<tr><td><h3>Tools</h3></td><td>
+		<img src='icons/github.png'	width="60"> <img src='icons/git.png'	width="60">
+		<img src='icons/vscode.png'	width="60">
+		<img src='icons/neovim.png'	width="60">
+		<img src='icons/godot.png'	width="60">
+	</td></tr>
+	<tr><td><h3>Operating systems</h3></td><td>
+		<img src='icons/wsl.png'	width="60"> <img src='icons/debian.png' width="60">
+		<img src='icons/ubuntu.png' width="60">
+	</td></tr>
+	<tr><td><h3>Scripting</h3></td><td>
+		<img src='icons/adobe action script.png' width="60"> <img src='icons/davinci resolve API.png' width="60">
+		<img src='icons/QT script.png'	 	 width="60">
+	</td></tr>
+	<tr><td><h3>Design/illustration</h3></td><td>
+		<img src='icons/figma.png'				width="60"> <img src='icons/adobe illustrator.png'	width="60">
+		<img src='icons/adobe xd.png'			width="60">
+		<img src='icons/photoshop.png'			width="60">
+		<img src='icons/clip studio paint.png'	width="60">
+		<img src='icons/blender.png'			width="60">
+	</td></tr>
+</table>
 
-**Coding Languages**
-
-<img src='icons/python.png' width="60"> <img src='icons/c.png'		width="60">
-<img src='icons/cpp.png'	width="60">
-<img src='icons/java.png'	width="60">
-<br>
 
 
-**Database**
 
-<img src='icons/firebase.png' width="60">
-<br>
-
-
-**Tools**
-
-<img src='icons/github.png'	width="60"> <img src='icons/git.png'	width="60">
-<img src='icons/vscode.png'	width="60">
-<img src='icons/neovim.png'	width="60">
-<img src='icons/godot.png'	width="60">
-<br>
-
-
-**Operating systems**
-
-<img src='icons/wsl.png'	width="60"> <img src='icons/debian.png' width="60">
-<img src='icons/ubuntu.png' width="60">
-<br>
-
-**Automation & Scripting**
-
-<img src='icons/adobe action script.png' width="60">
-<img src='icons/davinci resolve API.png' width="60">
-<img src='icons/QT script.png'	 	 width="60">
-
-<br>
-
-**Design/illustration**
-
-<img src='icons/figma.png'				width="60"> <img src='icons/adobe illustrator.png'	width="60">
-<img src='icons/adobe xd.png'			width="60">
-<img src='icons/photoshop.png'			width="60">
-<img src='icons/clip studio paint.png'	width="60">
-<img src='icons/blender.png'			width="60">
 <br>
 
 ___
+
+
+
 
 
 ## Projects that I've completed in the 42 Core program
@@ -191,6 +183,9 @@ I spent several months developing a 2D isometric scroller game, using an extreme
 </table>
 
 
+
+<br>
+
 ___
 
 ## 🎮 Games
@@ -210,7 +205,10 @@ I've been developing video games throughout the past 8 years. I combine my codin
 	</p>
 </details>
 
-___ 
+<br>
+
+___
+
 ## 🏆 Awards
 I've won numerous awards in competitions related to coding and STEM. 
 <br>
@@ -227,7 +225,11 @@ Have won numerous local and international awards and competitions in various are
 - Game: “Smartopia City 1”. Won the Top Coder Award in the WeCode International Competition 2020 (Out of 200+ entries) (Game was showcased in Shenzhen, China)
 - First Runner Up, Young Extrepreneur X-Factor 2019 (Teens challenge) and won an international school scholarship.
 
-<hr>
+<br>
+
+___
+
+## Certification
 
 ### Google UX Design 
 
