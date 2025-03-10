@@ -18,7 +18,7 @@
 - 🤖 I’m passionate about automating workflows to free up more time for creativity and innovation.
 - 🎤 I’ve shared my expertise through talks and workshops relating to 2D animation, YouTube, and coding, for the past 9 years
 
-Together with my brother, I co-manage CyberLegends Animations, a YouTube channel with 895K subscribers and 179 million views
+Together with my younger brother, I co-manage CyberLegends Animations, a YouTube channel with over 900K subscribers and 179 million views
 <p align="center">
 	<img src="https://github.com/user-attachments/assets/3327cdfa-a81b-4f0a-8e21-60398d28d7e0" width="600" style="display: block; margin: auto;">
 	<br>As at 6.3.2025 
