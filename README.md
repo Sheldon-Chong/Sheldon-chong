@@ -2,13 +2,13 @@
 
 ## Hi there, I'm Sheldon Chong 👋
 ### About me
-I am a 18 y.o. multi-talented Game Developer, Coder, Digital Artist, YouTuber, Animator, Speaker, Author, Musician, Entrepreneur & Changemaker with a mission to inspire creativity and transform mindsets. I have been conducting workshops on cartooning, comic drawing, coding, 2D Animation and other creative workshops for the past 9 years. 
+- Technical Lead and Artist at CyberLegends Animations (900K+ subscribers).
+- Coder, Digital Artist, YouTuber, Animator, Entrepreneur, and Speaker.
+- I develop tools to streamline animation production, enhancing efficiency while maintaining artistic quality.
+- I’m passionate about automating workflows to free up more time for creativity and innovation.
+- I’ve shared my expertise through talks and workshops relating to 2D animation, YouTube, and coding, for the past 9 years
 
-___
-
-### Youtube
-Alongside my brother, we actively manage a YouTube Channel called CyberLegends Animations, which currently has amassed a 895k subscribers, and 179 million views. My role in this channel involves not only creative areas like animation, illustration and script-writing, but also automations, and software scripting. I actively build tools to assist with creating animations and translating them to other languages.
-
+Together with my brother, I co-manage CyberLegends Animations, a YouTube channel with 895K subscribers and 179 million views. My role extends beyond animation, illustration, and scriptwriting to include automation and software scripting. I develop tools to streamline animation production and facilitate multilingual translations, enhancing both efficiency and accessibility.
 <p align="center">
 	<img src="https://github.com/user-attachments/assets/3327cdfa-a81b-4f0a-8e21-60398d28d7e0" width="600" style="display: block; margin: auto;">
 	<br>As at 6.3.2025 
