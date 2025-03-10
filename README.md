@@ -11,7 +11,6 @@
 
 ## Hi there, I'm Sheldon Chong 👋
 
-### About me
 - Technical Lead and Artist at CyberLegends Animations, reaching 1.3M subscribers across <a href="">YouTube (900K)</a>, <a href="">Bilibili (375K)</a>, and <a href="">TikTok (21K) </a>.
 - 🎨 Coder, Digital Artist, YouTuber, Animator, Entrepreneur, and Speaker.
 - 🛠️ I develop tools to streamline animation production, enhancing efficiency while maintaining artistic quality.
@@ -111,8 +110,8 @@ ___
 
 
 
-## Projects that I've completed in the 42 Core program
-I'm currently studying at <a href="https://42kl.edu.my/">42 Kuala Lumpur (Sunway Education Group)</a>. This program it is part of the <a href="https://42.fr/en/homepage/">global 42 Network</a>, which originated in France with campuses worldwide
+## 42 Core program
+I'm currently studying Computer Science at <a href="https://42kl.edu.my/">42 Kuala Lumpur (Sunway Education Group)</a>. This program it is part of the <a href="https://42.fr/en/homepage/">global 42 Network</a>, which originated in France, with campuses worldwide.
 
 <div align="center">
 
