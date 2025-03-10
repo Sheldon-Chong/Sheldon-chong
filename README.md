@@ -114,19 +114,21 @@ ___
 ## Projects that I've completed in the 42 Core program
 I'm currently studying at <a href="https://42kl.edu.my/">42 Kuala Lumpur (Sunway Education Group)</a>. This program it is part of the <a href="https://42.fr/en/homepage/">global 42 Network</a>, which originated in France with campuses worldwide
 
-<p align="center">
+<div align="center">
 
 <img src="https://badge.mediaplus.ma/darkblue/shechong?1337Badge=off&UM6P=off" alt="shechong's 42 stats" />
 
-</p>
+I'm currently 66% through Level 5 of the 42 Core Program.
 
-As part of the 42's Core Program, I have worked on a number of coding projects that cover various fields of computer science.
+</div>
+
+I have completed the following projects under the 42 Core Program. Each project covers different areas of computer science.
 
 <table>
 <tr>
 <th>Project</th>
 <th>Project Description</th>
-<th>Concepts Covered</th>
+<th>Technical skills gained</th>
 </tr>
 <tr>
 	<td><a href="https://github.com/Sheldon-Chong/libft"><strong>libft</strong></a></td>
