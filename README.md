@@ -233,8 +233,7 @@ I’ve written in-depth articles sharing insights from my research and projects.
 ___
 
 ## 🎮 Games
-I've been developing video games throughout the past 8 years. I combine my coding skills with my digital art skills and creative ideas into these videogames. I participated in international and local coding and game development competitions and have won top spots. 
-
+For 8 years, I developed videogames, blending my skills in coding and digital art. I've competed in both local and international game development competitions, and have won top spots.
 <details>
 	<summary>
 		<strong>Some of the games I've developed</strong>
@@ -259,7 +258,7 @@ I've won numerous awards in competitions related to coding and STEM.
 
 <strong>Coding and Game Development:</strong>
 
-Have won numerous local and international awards and competitions in various areas such as Game Development, Coding and STEM. Among them are:
+I've won numerous local and international awards in Game Development, Coding, and STEM competitions. Among them are:
 - Game: “Jom Mamak!” Won the Gold Award and Jury Award in the Creative @ Schools Level Up Game Development competition, organised by Malaysian Development Economy Corporation.
 - First Place Winner in the Young Educators Challenge 2021, and won a full scholarship to Sunway College
 - Game: “Cephion”. Won the Grand Prize in the Dell Technologies Game Design Challenge 2021 (Out of 300 entries internationally, mainly from the USA). 
