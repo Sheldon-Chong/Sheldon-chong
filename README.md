@@ -31,39 +31,72 @@ Besides doing animation, illustration, and scriptwriting, I spearhead automation
 
 <br>
 
+
+
 ___
 
 ## Skills
 
 <table>
 	<tr><td><h3>Coding languages</h3></td><td>
-		<img src='icons/python.png' width="60"> <img src='icons/c.png'		width="60">
-		<img src='icons/cpp.png'	width="60">
-		<img src='icons/java.png'	width="60">
+		<span title="Python">
+			<img src='icons/python.png' width="60">
+		</span> <span title="C">
+			<img src='icons/c.png'	    width="60">
+		</span> <span title="C++">
+			<img src='icons/cpp.png'    width="60">
+		</span> <span title="Java">
+			<img src='icons/java.png'   width="60">
+		</span>
 	</td></tr>
 	<tr><td><h3>Database</h3></td><td>
 		<img src='icons/firebase.png' width="60">
 	</td></tr>
 	<tr><td><h3>Tools</h3></td><td>
-		<img src='icons/github.png'	width="60"> <img src='icons/git.png'	width="60">
-		<img src='icons/vscode.png'	width="60">
-		<img src='icons/neovim.png'	width="60">
-		<img src='icons/godot.png'	width="60">
+		<span title="Github">
+			<img src='icons/github.png' width="60">
+		</span> <span title="git">
+			<img src='icons/git.png'    width="60">
+		</span> <span title="VSCode">
+			<img src='icons/vscode.png' width="60">
+		</span> <span title="Neovim">
+			<img src='icons/neovim.png' width="60">
+		</span> <span title="Godot">
+			<img src='icons/godot.png'  width="60">
+		</span>
 	</td></tr>
 	<tr><td><h3>Operating systems</h3></td><td>
-		<img src='icons/wsl.png'	width="60"> <img src='icons/debian.png' width="60">
-		<img src='icons/ubuntu.png' width="60">
+		<span title="Windows Subsystem for Linux">
+			<img src='icons/wsl.png'	width="60">
+		</span> <span title="Debian">
+			<img src='icons/debian.png' width="60">
+		</span> <span title="Ubuntu">
+			<img src='icons/ubuntu.png' width="60">
+		</span>
 	</td></tr>
 	<tr><td><h3>Scripting</h3></td><td>
-		<img src='icons/adobe action script.png' width="60"> <img src='icons/davinci resolve API.png' width="60">
-		<img src='icons/QT script.png'	 	 width="60">
+		<span title="Adobe Action Script">
+			<img src='icons/adobe action script.png' width="60">
+		</span><span title="Davinci Resolve API">
+			<img src='icons/davinci resolve API.png' width="60">
+		</span><span title="QT script for ToonBoom Harmony">
+			<img src='icons/QT script.png'	 	 width="60">
+		</span>
 	</td></tr>
 	<tr><td><h3>Design/illustration</h3></td><td>
-		<img src='icons/figma.png'				width="60"> <img src='icons/adobe illustrator.png'	width="60">
-		<img src='icons/adobe xd.png'			width="60">
-		<img src='icons/photoshop.png'			width="60">
-		<img src='icons/clip studio paint.png'	width="60">
-		<img src='icons/blender.png'			width="60">
+		<span title="Figma">
+			<img src='icons/figma.png'		width="60">
+		</span><span title="Adobe Illustrator">
+			<img src='icons/adobe illustrator.png'	width="60">
+		</span><span title="Adobe XD">
+			<img src='icons/adobe xd.png'		width="60">
+		</span><span title="Photoshop">
+			<img src='icons/photoshop.png'		width="60">
+		</span><span title="Clip Studio Paint">
+			<img src='icons/clip studio paint.png'	width="60">
+		</span><span title="Blender">
+			<img src='icons/blender.png'		width="60">
+		</span>
 	</td></tr>
 </table>
 
@@ -90,71 +123,73 @@ I'm currently studying at <a href="https://42kl.edu.my/">42 Kuala Lumpur (Sunway
 As part of the 42's Core Program, I have worked on a number of coding projects that cover various fields of computer science.
 
 <table>
-  <tr>
-    <th>Project</th>
-    <th>Project Description</th>
-    <th>Concepts Covered</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Sheldon-Chong/Libft"><strong>libft</strong></a></td>
-    <td>Creating a library of essential functions for every-day programming use</td>
-    <td>pointers, memory allocation, headers, linking files & static libraries, makefile</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Sheldon-Chong/get_next_line"><strong>get_next_line</strong></a></td>
-    <td>Create a program that retrieves the next line of a given file, which is a convenient utility to parse files</td>
-    <td>File descriptors, read/write operations, static variables</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Sheldon-Chong/ft_printf"><strong>ft_printf</strong></a></td>
-    <td>Recreating the printf function from C, which allows to print a message with format specifiers</td>
-    <td>Variadic arguments, C printf behaviour</td>
-  </tr>
-  <tr>
-    <td><a href="#"><strong>born2beroot</strong></a></td>
-    <td>Setting-up, running and operating a Linux distribution in a virtual machine using Virtual Box</td>
-    <td>Operating systems & kernels, users & super-users, groups, daemons & background processes, software protection, file systems and partitioning</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Sheldon-Chong/pipex"><strong>pipex</strong></a></td>
-    <td>Create a program that will execute a series of commands, piping the output of one to the next</td>
-    <td>Pipes & inter-process communication, file descriptors and redirection, process forking</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Sheldon-Chong/push_swap"><strong>pushswap</strong></a></td>
-    <td>Creating a sorting algorithm that will sort a given array of numbers ascending in the least amount of steps</td>
-    <td>Sorting-algorithms, linked lists, bit-wise operations and bit-shifting</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Sheldon-Chong/so_long_linux_compatible.git"><strong>so_long</strong></a></td>
-    <td>Create a 2D top-down interactive video`. The first graphics project of the Core Program</td>
-    <td>2D Graphics rendering</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Sheldon-Chong/Philosophers"><strong>philosophers</strong></a></td>
-    <td>Create a program that will run, and coordinate threads as they access resources</td>
-    <td>Multi-threading, mutex locks, data races, process forking, semaphores</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Sheldon-Chong/minishell"><strong>minishell</strong></a></td>
-    <td>Creating a program that imitates bash</td>
-    <td>Bash behaviour, Abstract-Syntax-Tree, Signals</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Sheldon-Chong/cub3D"><strong>cub3D</strong></a></td>
-    <td>Create a 3D ray-caster with player movement and other interactive components</td>
-    <td>Ray-casting and 3D rendering, collisions, textures</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Sheldon-Chong/netpractice.git"><strong>netpractice</strong></a></td>
-    <td>Learning and practicing networks and networking, IP addresses, subnet masks and physical components involved in networks</td>
-    <td>Networks, IP's & subnet masks, routers & switches, overlapping IP's</td>
-  </tr>
-  <tr>
-    <td><a href="#"><strong>C++ modules 0-4</strong></a></td>
-    <td>Completing a series of C++ projects, each aimed at teaching different topics</td>
-    <td>Streams, OOP, Member access modifiers, Inheritance, Overloading, Method Overriding, Operator Overloading, Polymorphism</td>
-  </tr>
+<tr>
+<th>Project</th>
+<th>Project Description</th>
+<th>Concepts Covered</th>
+</tr>
+<tr>
+	<td><a href="https://github.com/Sheldon-Chong/libft"><strong>libft</strong></a></td>
+	<td>Creating a library of essential functions for every-day programming use</td>
+	<td>Pointers, memory allocation, headers, makefile.</td>
+</tr>
+<tr>
+	<td><a href="https://github.com/Sheldon-Chong/get_next_line"><strong>get_next_line</strong></a></td>
+	<td>Reads the next line from a file</td>
+	<td>File descriptors, read/write ops, static variables.</td>
+</tr>
+<tr>
+	<td><a href="https://github.com/Sheldon-Chong/ft_printf"><strong>ft_printf</strong></a></td>
+	<td>Custom implementation of C's printf</td>
+	<td>Variadic arguments, C printf behaviour</td>
+</tr>
+<tr>
+	<td><a href="#"><strong>born2beroot</strong></a></td>
+	<td>Setting up and operating a Linux VM using VirtualBox</td>
+	<td>OS & kernels, users & permissions, groups, daemons, software protection, file systems and partitioning</td>
+</tr>
+<tr>
+	<td><a href="https://github.com/Sheldon-Chong/pipex"><strong>pipex</strong></a></td>
+	<td>Creating a program that executes a series of commands, piping the output of one to the next</td>
+	<td>Pipes & inter-process communication, redirection</td>
+</tr>
+<tr>
+	<td><a href="https://github.com/Sheldon-Chong/push_swap"><strong>pushswap</strong></a></td>
+	<td>Creating an optimized sorting algorithm</td>
+	<td>Sorting-algorithms, linkedlists, bit-wise operations</td>
+</tr>
+<tr>
+	<td><a href="https://github.com/Sheldon-Chong/so_long_linux_compatible.git"><strong>so_long</strong></a></td>
+	<td>2D top-down interactive game</td>
+	<td>2D Graphics rendering</td>
+</tr>
+<tr>
+	<td><a href="https://github.com/Sheldon-Chong/philosophers"><strong>philosophers</strong></a></td>
+	<td>Create a program that will coordinate threads as they access resources</td>
+	<td>Multi-threading, mutex locks, semaphores</td>
+</tr>
+<tr>
+	<td><a href="https://github.com/Sheldon-Chong/minishell"><strong>minishell</strong></a></td>
+	<td>Creating a custom shell that imitates bash</td>
+	<td>Bash behaviour, Abstract-Syntax-Tree, Signals</td>
+</tr>
+<tr>
+	<td><a href="https://github.com/Sheldon-Chong/cub3D"><strong>cub3D</strong></a></td>
+	<td>Creating an interactive 3D ray-caster</td>
+	<td>Ray-casting and 3D rendering, collisions, textures</td>
+</tr>
+<tr>
+	<td><a href="https://github.com/Sheldon-Chong/netpractice.git"><strong>netpractice</strong></a></td>
+	<td>Networking concepts and completing a practiced simulation</td>
+	<td>Networks, IP's & subnet masks, routers & switches, overlapping IP's</td>
+</tr>
+
+<tr>
+	<td><a href="#"><strong>C++ modules 0-4</strong></a></td>
+	<td>Series of C++ projects covering key OOP topics</td>
+	<td>Streams, OOP, Inheritance, function overloading and overriding, Operator Overloading, Polymorphism</td>
+</tr>
+
 </table>
 
 ___
