@@ -40,62 +40,62 @@ ___
 <table>
 	<tr><td><h3>Coding languages</h3></td><td>
 		<span title="Python">
-			<img src='icons/python.png' width="60">
+			<img src='icons/python.png' width="50">
 		</span> <span title="C">
-			<img src='icons/c.png'	    width="60">
+			<img src='icons/c.png'	    width="50">
 		</span> <span title="C++">
-			<img src='icons/cpp.png'    width="60">
+			<img src='icons/cpp.png'    width="50">
 		</span> <span title="Java">
-			<img src='icons/java.png'   width="60">
+			<img src='icons/java.png'   width="50">
 		</span>
 	</td></tr>
 	<tr><td><h3>Database</h3></td><td>
-		<img src='icons/firebase.png' width="60">
+		<img src='icons/firebase.png' width="50">
 	</td></tr>
 	<tr><td><h3>Tools</h3></td><td>
 		<span title="Github">
-			<img src='icons/github.png' width="60">
+			<img src='icons/github.png' width="50">
 		</span> <span title="git">
-			<img src='icons/git.png'    width="60">
+			<img src='icons/git.png'    width="50">
 		</span> <span title="VSCode">
-			<img src='icons/vscode.png' width="60">
+			<img src='icons/vscode.png' width="50">
 		</span> <span title="Neovim">
-			<img src='icons/neovim.png' width="60">
+			<img src='icons/neovim.png' width="50">
 		</span> <span title="Godot">
-			<img src='icons/godot.png'  width="60">
+			<img src='icons/godot.png'  width="50">
 		</span>
 	</td></tr>
 	<tr><td><h3>Operating systems</h3></td><td>
 		<span title="Windows Subsystem for Linux">
-			<img src='icons/wsl.png'	width="60">
+			<img src='icons/wsl.png'	width="50">
 		</span> <span title="Debian">
-			<img src='icons/debian.png' width="60">
+			<img src='icons/debian.png' width="50">
 		</span> <span title="Ubuntu">
-			<img src='icons/ubuntu.png' width="60">
+			<img src='icons/ubuntu.png' width="50">
 		</span>
 	</td></tr>
 	<tr><td><h3>Scripting</h3></td><td>
 		<span title="Adobe Action Script">
-			<img src='icons/adobe action script.png' width="60">
+			<img src='icons/adobe action script.png' width="50">
 		</span><span title="Davinci Resolve API">
-			<img src='icons/davinci resolve API.png' width="60">
+			<img src='icons/davinci resolve API.png' width="50">
 		</span><span title="QT script for ToonBoom Harmony">
-			<img src='icons/QT script.png'	 	 width="60">
+			<img src='icons/QT script.png'	 	 width="50">
 		</span>
 	</td></tr>
 	<tr><td><h3>Design/illustration</h3></td><td>
 		<span title="Figma">
-			<img src='icons/figma.png'		width="60">
+			<img src='icons/figma.png'		width="50">
 		</span><span title="Adobe Illustrator">
-			<img src='icons/adobe illustrator.png'	width="60">
+			<img src='icons/adobe illustrator.png'	width="50">
 		</span><span title="Adobe XD">
-			<img src='icons/adobe xd.png'		width="60">
+			<img src='icons/adobe xd.png'		width="50">
 		</span><span title="Photoshop">
-			<img src='icons/photoshop.png'		width="60">
+			<img src='icons/photoshop.png'		width="50">
 		</span><span title="Clip Studio Paint">
-			<img src='icons/clip studio paint.png'	width="60">
+			<img src='icons/clip studio paint.png'	width="50">
 		</span><span title="Blender">
-			<img src='icons/blender.png'		width="60">
+			<img src='icons/blender.png'		width="50">
 		</span>
 	</td></tr>
 </table>
