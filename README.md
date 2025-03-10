@@ -27,7 +27,7 @@ Together with my younger brother, I co-manage CyberLegends Animations, a YouTube
 Besides doing animation, illustration, and scriptwriting, I spearhead automation and software scripting using my skills in coding. Below are some of the tools I've developed:
 - **Multi-lingual translation:** Our animations, which are in english, are translated into Chinese, Spanish, Brazillian, utilizing a software I developed to translate, relink and generate visual dialogues for characters in the animation.
 - **Video-editing post-production:** Utilizing Davinci Resolve's scripting API, I have coded tools to help with importing, aligning and adjusting clips inside its video-editor.
-- **Animation tools** Utilizing QT script and Action Script, I have coded scripts that help with speeding up certain processes during the creation of animations
+- **Animation tools:** Utilizing QT Script and Action Script, I have coded scripts that help with speeding up certain processes during the creation of animations
 
 <br>
 
