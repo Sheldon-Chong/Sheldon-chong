@@ -24,7 +24,7 @@ Together with my younger brother, I co-manage CyberLegends Animations, a YouTube
 	<br>As at 6.3.2025 
 </p>
 
-Besides doing animation, illustration, and scriptwriting, I spearhead automation and software scripting using my skills in coding. Below are some of the projects I've worked on:
+Besides doing animation, illustration, and scriptwriting, I spearhead automation and software scripting using my skills in coding. Below are some of the tools I've developed:
 - **Multi-lingual translation:** Our animations, which are in english, are translated into Chinese, Spanish, Brazillian, utilizing a software I developed to translate, relink and generate visual dialogues for characters in the animation.
 - **Video-editing post-production:** Utilizing Davinci Resolve's scripting API, I have coded tools to help with importing, aligning and adjusting clips inside its video-editor.
 - **Animation tools** Utilizing QT script and Action Script, I have coded scripts that help with speeding up certain processes during the creation of animations
@@ -195,36 +195,36 @@ I have completed the following projects under the 42 Core Program. Each project 
 </table>
 
 ___
-## 🔍 Articles & insights I have written 
-I have written several extensive articles regarding, compiling knowledge I have gathered via research and projects that I have worked on. As I'm passionate about graphic design and illustration, these guides are equipped with as much visual aids to assist with navigating difficult concepts.
+## 🔍 My articles & insights 
 
+I’ve written in-depth articles sharing insights from my research and projects. As I'm passionate about graphic design and illustration, I include many visual aids in these articles to simplify complex concepts."
 
 <table>
-	<tr>
-		<td width="300"><a href="https://github.com/Sheldon-Chong/netpractice"><img src="https://github.com/user-attachments/assets/319d8cd4-baf6-4b56-bf90-e2744b3d3a38"></td>
-		<td>
-A few months ago, I wrote some notes while studying Netpractice, a project of the 42 Core program. However as my knowledge grew, so did the rabbit-hole that was networking. Lot of great learning resources existed, but I didn't find source that effectively provided the entire picture for networking. Compiling my findings, I created this guide. It aims to give a full picture on networks from scratch, in a manner as digestible as I could make it. Many points brought up will be supported by graphics and visuals that I illustrated. 
-
-<i>Topics include: IP addresses, CIDR and subnet calculations, and networking devices, plus additional concepts such as ARP requests, MAC addresses, DNS and DHCP.</i>
-		</td>
-	</tr>
- 	<tr>
-  		<td width="300"><img src="https://github.com/user-attachments/assets/c48be072-a242-483d-9893-13e7c4680d36"></td>
-    		<td>
-I spent several months developing a 2D isometric scroller game, using an extremely bare-bones graphics library in a low-level-language - C. This article aims to cover aspects of the game's development, and how I approached each one. 
-
-<i>Topics include: how I applied Isometric rendering and asset-creation, 2D animation utilizing a hybrid method of interpolation, dynamic camera that follows the player, and enemy AI using ray-casting.</i>
-      		</td>
-  	</tr>
-   	<tr>
-  		<td width="300"><img src="https://github.com/user-attachments/assets/82b85ae8-7f5a-4271-9036-fdfa629d10b6"></td>
-    		<td>
-(Coming soon) This article is an extension of the Networks article I wrote earlier. It aims to expand previously covered concepts, such as Clients and IP addresses, but will dive deeper into the weeds that is exactly how data is sent and retrieved, between clients and a webserver. It utilizes the same example-based, step-by-step learning method to explain concepts
-
-<i>Topics include: Ports, sockets, request methods such as GET, POST, DELETE, how webserver's process data using CGI, multi-part/form data</i>
-
-</td>
-  	</tr>
+	
+<tr>
+	<td width="300"><a href="https://github.com/Sheldon-Chong/netpractice"><img src="https://github.com/user-attachments/assets/319d8cd4-baf6-4b56-bf90-e2744b3d3a38"></td>
+	<td>
+		A few months ago, I wrote some notes while studying Netpractice, a project of the 42 Core program. However as my knowledge grew, so did the rabbit-hole that was networking. I created this article that provides the full picture on computer networks in a digestible-as-possible manner, from the perspective of someone who started with zero knowledge.
+		<br><br>
+		💡 Topics include: IP addresses, CIDR and subnet calculations, network hardware, ARP requests, MAC addresses, DNS and DHCP.
+	</td>
+</tr>
+<tr>
+	<td width="300"><img src="https://github.com/user-attachments/assets/c48be072-a242-483d-9893-13e7c4680d36"></td>
+	<td>
+		I spent several months developing a 2D isometric scroller game, using an extremely bare-bones graphics library in a low-level-language - C. This article aims to cover aspects of the game's development, and how I approached each one. 
+		<br><br>
+		💡 Topics include: Applying isometric rendering and asset-creation, 2D animation using interpolation, dynamic camera that tracks player, enemy AI via ray-casting
+      	</td>
+</tr>
+<tr>
+	<td width="300"><img src="https://github.com/user-attachments/assets/82b85ae8-7f5a-4271-9036-fdfa629d10b6"></td>
+	<td>
+		(Coming soon) This article is an extension of the Networks article I wrote earlier. It aims to expand previously covered concepts, such as Clients and IP addresses, but will dive deeper into the weeds that is exactly how data is sent and retrieved, between clients and a webserver. It utilizes the same example-based, step-by-step learning method to explain concepts
+		<br><br>
+		💡 Topics include: Ports, sockets, request methods, how webserver's process data using CGI, multi-part/form data
+	</td>
+</tr>
 </table>
 
 
