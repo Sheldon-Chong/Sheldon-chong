@@ -253,20 +253,23 @@ For 8 years, I developed videogames, blending my skills in coding and digital ar
 ___
 
 ## 🏆 Awards
-I've won numerous awards in competitions related to coding and STEM. 
-<br>
+I’m passionate about game development, coding, and STEM, and have won various competitions both locally and internationally. Some of my notable achievements include:  
 
-<strong>Coding and Game Development:</strong>
+🎮 Game Development & Coding Awards  
 
-I've won numerous local and international awards in Game Development, Coding, and STEM competitions. Among them are:
-- Game: “Jom Mamak!” Won the Gold Award and Jury Award in the Creative @ Schools Level Up Game Development competition, organised by Malaysian Development Economy Corporation.
-- First Place Winner in the Young Educators Challenge 2021, and won a full scholarship to Sunway College
-- Game: “Cephion”. Won the Grand Prize in the Dell Technologies Game Design Challenge 2021 (Out of 300 entries internationally, mainly from the USA). 
-- Game: “Smartopia City 2". Won Champion in the Codemao International Creative Coding Competition 2020
-- Game: “Virus Defense” – Codemao International Creative Coding Competition 2020 (selected to enter the finals in which I won Champion)
-- Game: “Smartopia City 2”. Won the Silver Award in the International Scratch Coding Competition 2020 (World's largest virtual coding competition with 4158 participants)
-- Game: “Smartopia City 1”. Won the Top Coder Award in the WeCode International Competition 2020 (Out of 200+ entries) (Game was showcased in Shenzhen, China)
-- First Runner Up, Young Extrepreneur X-Factor 2019 (Teens challenge) and won an international school scholarship.
+- 🏆 Gold Award & Jury Award – *"Jom Mamak!"* (Creative @ Schools Level Up Game Development, by MDEC)  
+- 🥇 1st Place Winner – Young Educators Challenge 2021 (Earned a full scholarship to Sunway College)  
+- 🏆 Grand Prize – *"Cephion"* (Dell Technologies Game Design Challenge 2021, among 300 international entries, mainly from the USA)  
+- 🏆 Champion – *"Smartopia City 2"* (Codemao International Creative Coding Competition 2020)  
+- 🏆 Champion – *"Virus Defense"* (Codemao International Creative Coding Competition 2020, Finalist & Winner)  
+- 🥈 Silver Award – *"Smartopia City 2"* (International Scratch Coding Competition 2020, world’s largest virtual coding competition with 4,158 participants)  
+- 🏅 Top Coder Award – *"Smartopia City 1"* (WeCode International Competition 2020, showcased in Shenzhen, China)  
+- 🥈 1st Runner-Up – Young Entrepreneur X-Factor 2019 (Teens Challenge, earned an international school scholarship)  
+
+📺 Content Creation Milestone Awards
+
+- 🏆 YouTube Silver Creator Award (2021) – Achieved 100K+ subscribers on YouTube  
+- 🏆 Bilibili Silver Creator Award (2023) – Surpassed 100K+ followers on Bilibili
 
 <br>
 
