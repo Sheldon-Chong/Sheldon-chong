@@ -208,8 +208,8 @@ I’ve written in-depth articles sharing insights from my research and projects.
 		💡 Topics include: IP addresses, CIDR and subnet calculations, network hardware, ARP requests, MAC addresses, DNS and DHCP.
 	</td>
 </tr>
-<tr>
-	<td width="300"><img src="https://github.com/user-attachments/assets/c48be072-a242-483d-9893-13e7c4680d36"></td>
+<tr> 
+	<td width="300"><img src="https://github.com/user-attachments/assets/b904d524-3368-4063-bda0-3d2254447d89"></td>
 	<td>
 		I spent several months developing a 2D isometric scroller game, using an extremely bare-bones graphics library in a low-level-language - C. This article aims to cover aspects of the game's development, and how I approached each one. 
 		<br><br>
