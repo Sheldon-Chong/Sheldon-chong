@@ -257,18 +257,18 @@ I’m passionate about game development, coding, and STEM, and have won various 
 
 🎮 Game Development & Coding Awards  
 
-- 🏆 Gold Award & Jury Award – *"Jom Mamak!"* (Creative @ Schools Level Up Game Development, by MDEC)  
-- 🥇 1st Place Winner – Young Educators Challenge 2021 (Earned a full scholarship to Sunway College)  
-- 🏆 Grand Prize – *"Cephion"* (Dell Technologies Game Design Challenge 2021, among 300 international entries, mainly from the USA)  
-- 🏆 Champion – *"Smartopia City 2"* (Codemao International Creative Coding Competition 2020)  
-- 🏆 Champion – *"Virus Defense"* (Codemao International Creative Coding Competition 2020, Finalist & Winner)  
-- 🥈 Silver Award – *"Smartopia City 2"* (International Scratch Coding Competition 2020, world’s largest virtual coding competition with 4,158 participants)  
-- 🏅 Top Coder Award – *"Smartopia City 1"* (WeCode International Competition 2020, showcased in Shenzhen, China)  
-- 🥈 1st Runner-Up – Young Entrepreneur X-Factor 2019 (Teens Challenge, earned an international school scholarship)  
+- 🏆 Gold Award & Jury Award – *"Jom Mamak!" Restaurant Management and Simulation Game" – Game Development Competition by the Malaysian Digital Economy Corporation (MDEC)
+- 🥇 1st Place Winner – Young Educators Challenge 2021 (Earned a full scholarship to Sunway College Kuala Lumpur, Malaysia)
+- 🏆 Grand Prize – *"Cephion"* (Dell Technologies Game Design Challenge 2021 – Selected among 300 international entries, primarily from the USA
+- 🏆 Champion – *"Smartopia City 2"* (Codemao International Creative Coding Competition 2020 - Finals)
+- 🏆 Advanced to the finals – *"Virus Defense"* (Codemao International Creative Coding Competition 2020)  
+- 🥈 Silver Award – *"Smartopia City 2"* (International Scratch Coding Competition 2020) - The world’s largest virtual coding competition with 4,158 participants)  
+- 🏅 Top Coder Award – *"Smartopia City 1"* (WeCode International Competition 2020). Showcased and received the award in Shenzhen, China)  
+- 🥈 1st Runner-Up – Young Entrepreneur X-Factor 2019 (Teens Challenge). Earned an international school scholarship)  
 
 📺 Content Creation Milestone Awards
 
-- 🏆 YouTube Silver Creator Award (2021) – Achieved 100K+ subscribers on YouTube  
+- 🏆 YouTube Silver Creator Award (2021) – Surpassed 100K+ subscribers on YouTube  
 - 🏆 Bilibili Silver Creator Award (2023) – Surpassed 100K+ followers on Bilibili
 
 <br>
