@@ -279,8 +279,10 @@ ___
 
 ### Google UX Design 
 
+
 I completed a hands-on 6-module course on UX design that covers creating interactive low and high-fidelity wireframes prototypes for Mobile, Desktop and Web interfaces using tools like Figma and Adobe XD, the UX design cycle, conducting usability studies and iterative design, and design concepts like layout, typography, iconography and color.
-![alt text](image-2.png)
+
+<img src="https://github.com/user-attachments/assets/199acb5a-011c-4984-bd8c-447e01ff3d06" width="600" />
 
 1. [Certificate: Start the UX Design Process: Empathize, Define, and Ideate](https://coursera.org/share/ede072582e22b6e35d7fea4c6c17b19d)
 2. [Certificate: Build Wireframes and Low-Fidelity Prototypes](https://coursera.org/share/942113e76480a6bf046078d24fb74be3)
