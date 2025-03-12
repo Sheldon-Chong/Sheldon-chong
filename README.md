@@ -110,7 +110,7 @@ ___
 
 
 
-## 42 Core program
+## Education
 I'm currently studying Computer Science at <a href="https://42kl.edu.my/">42 Kuala Lumpur (Sunway Education Group)</a>. This program it is part of the <a href="https://42.fr/en/homepage/">global 42 Network</a>, which originated in France, with campuses worldwide.
 
 <div align="center">
@@ -196,7 +196,7 @@ I have completed the following projects under the 42 Core Program. Each project 
 ___
 ## 🔍 My articles & insights 
 
-I’ve written in-depth articles sharing insights from my research and projects. As I'm passionate about graphic design and illustration, I include many visual aids in these articles to simplify complex concepts."
+I’ve written in-depth articles sharing insights from my research and projects. As I'm passionate about graphic design and illustration, I include many visual aids in these articles to simplify complex concepts.
 
 <table>
 	
