@@ -11,7 +11,7 @@
 
 ## Hi there, I'm Sheldon Chong 👋
 
-- Technical Lead and Artist at CyberLegends Animations, reaching 1.3M subscribers across <a href="">YouTube (900K)</a>, <a href="">Bilibili (375K)</a>, and <a href="">TikTok (21K) </a>.
+- Tech lead to Software Developer, Workflow Engineer and Animator at CyberLegends Animations, reaching 1.3M subscribers across <a href="">YouTube (900K)</a>, <a href="">Bilibili (375K)</a>, and <a href="">TikTok (21K) </a>.
 - 🎨 Coder, Digital Artist, YouTuber, Animator, Entrepreneur, and Speaker.
 - 🛠️ I develop tools to streamline animation production, enhancing efficiency while maintaining artistic quality.
 - 🤖 I’m passionate about automating workflows to free up more time for creativity and innovation.
