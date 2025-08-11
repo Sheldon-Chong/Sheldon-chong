@@ -117,8 +117,6 @@ I'm currently studying Computer Science at <a href="https://42kl.edu.my/">42 Kua
 
 <img src="https://badge.mediaplus.ma/darkblue/shechong?1337Badge=off&UM6P=off" alt="shechong's 42 stats" />
 
-I'm currently 66% through Level 5 of the 42 Core Program.
-
 </div>
 
 I have completed the following projects under the 42 Core Program. Each project covers different areas of computer science.
@@ -186,10 +184,21 @@ I have completed the following projects under the 42 Core Program. Each project 
 </tr>
 
 <tr>
-	<td><a href="#"><strong>C++ modules 0-4</strong></a></td>
+	<td><a href="#"><strong>C++ modules 0-8</strong></a></td>
 	<td>Series of C++ projects covering key OOP topics</td>
-	<td>Streams, OOP, Inheritance, function overloading and overriding, Operator Overloading, Polymorphism</td>
+	<td>Streams, OOP, Inheritance, function overloading and overriding, Operator Overloading, Polymorphism, Templates, Containers</td>
 </tr>
+<tr>
+	<td><a href="#"><strong>Inception</strong></a></td>
+	<td>Automate the creation, management, and connection of Docker containers, to create an interactive server</td>
+	<td>Docker containers, introduction to nginx, MariaDB and mySQL, WordPress and PHP, PID1, SSL/TSL</td>
+</tr>
+<tr>
+	<td><a href="#"><strong>Webserve</strong></a></td>
+	<td>Create a web server from scratch that supports config file and file uploads, based on Nginx</td>
+	<td>HTTP requests and response, multiplexing, sockets and ports, static and dynamic pages</td>
+</tr>
+
 
 </table>
 
